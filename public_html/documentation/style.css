@@ -30,6 +30,7 @@
 
 .img {
 	box-shadow: 8px 8px 10px #aaa;
+	align-items: center;
 }
 
 a:link, a:visited, a:active {
@@ -38,4 +39,9 @@ a:link, a:visited, a:active {
 
 a:hover {
 	text-decoration: none; color: #18657a;
+}
+
+.container {
+	max-width: 150px;
+	text-align: center;
 }
