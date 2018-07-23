@@ -7,17 +7,20 @@
 		<link rel="stylesheet" href="./style.css">
 	</head>
 	<body>
-<!--Header navigation-->
+
+		<!--Header navigation-->
 		<ul class="nav">
 			<li class="nav li"><a href="./milestone-1.php">Home</a></li>
 		</ul>
 <!--End header navigation-->
+
 		<h3>Purpose</h3>
-		<p>The purpose of this website is to create a portfolio of sorts that will put on display some of the technical skills that I have developed in order to thoroughly market myself to prospective employers.</p>
+			<p>The purpose of this website is to create a portfolio of sorts that will put on display some of the technical skills that I have developed in order to thoroughly market myself to prospective employers.</p>
 		<h3>Audience</h3>
-		<p>The intended audience of this website is those aforementioned prospective employers and their hiring managers who may be looking for skilled developers to join their organization.</p>
+			<p>The intended audience of this website is those aforementioned prospective employers and their hiring managers who may be looking for skilled developers to join their organization.</p>
 		<h3>Goal</h3>
-		<p>The ultimate goal of this website is to supplement tools such as LinkedIn and my resume to market myself, while utilizing the tools and knowledge that I've gained in this course thus far.</p>
+			<p>The ultimate goal of this website is to supplement tools such as LinkedIn and my resume to market myself, while utilizing the tools and knowledge that I've gained in this course thus far.</p>
+
 		<!--This persona reflects a notional early user of this site-->
 		<h2>Persona</h2>
 		<div>
@@ -40,12 +43,14 @@
 		</ul>
 		<p>Use Case: When Laura is hiring new software developers, she reviews resumes and LinkedIn profiles, but she also regularly searches the web for candidates' additional online presence. Her project managers have let her know to be on the look-out for GitHub activity and websites that the candidates may have already authored, to include a personal website. To them, this reflects intiative, confidence in and a willingess to market one's skills, and full immersion into the industry.</p>
 		<div class="brightness">
-			<a href="https://www.linkedin.com/in/joycorsi" target="_blank"><img src="./images/logo.png" width="100px"></a>
-			<p class="container">Visit LinkedIn to learn about my previous work experience and education.</p>
+			<a href="https://www.linkedin.com/in/joycorsi" target="_blank">
+				<img src="./images/logo.png" width="100px"></a>
+				<p class="container">Visit LinkedIn to learn about my previous work experience and education.</p>
 		</div>
 		<div class="brightness">
-			<a href="https://github.com/HalfMortise" target="_blank"><img src="./images/github.png" width="100px"></a>
-			<p class="container">Visit GitHub to see projects I've worked on myself as well as contributed to.</p>
+			<a href="https://github.com/HalfMortise" target="_blank">
+				<img src="./images/github.png" width="100px"></a>
+				<p class="container">Visit GitHub to see projects I've worked on myself as well as contributed to.</p>
 		</div>
 	</body>
 </html>
