@@ -16,11 +16,17 @@
       <!--End header navigation-->
 
       <h3>Content Strategy</h3>
-      <p>T</p>
+      <p><strong>Nav Menu</strong>: </p>
+      <p><strong>Header</strong>: </p>
+      <p><strong>About Me</strong>: </p>
+      <p><strong>Services</strong>: </p>
+      <p><strong>Portfolio</strong>: </p>
+      <p><strong>Contact</strong>: </p>
+      <p><strong>Footer</strong>: </p>
       <h3>Wireframes</h3>
-      <p>T</p>
+      <p></p>
       <h3>Goal</h3>
-      <p>The ultimate goal of this website is to supplement tools such as LinkedIn and my resume to market myself, while utilizing the tools and knowledge that I've gained in this course thus far.</p>
+      <p></p>
       <div class="brightness">
          <a href="https://www.linkedin.com/in/joycorsi" target="_blank">
             <img src="./images/logo.png" width="100px"></a>
