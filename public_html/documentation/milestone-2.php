@@ -14,7 +14,13 @@
          <li class="nav li"><a href="./milestone-2.php">Milestone 2</a></li>
       </ul>
       <!--End header navigation-->
+		<ul class="nav">
+			<li class="nav li"><a name="Milestone-2">Milestone 2 Instructions</a></li>
+		</ul>
+		<p>Document - in detail - the content you plan to feature in each section of your site. Be sure to include any details regarding interactive features and functionality that you wish to include. You are not expected to have any actual content prepared at this time, rather only a plan for the kind of content you would like to feature.</p>
+		<p>Keep this section brief and succinct, yet detailed enough to guide your development phase. One paragraph per content section should be sufficient.</p>
 
+		<!--Content Strategy-->
       <h3>Content Strategy</h3>
       <p><strong>Nav Menu</strong>: </p>
       <p><strong>Header</strong>: </p>
@@ -23,20 +29,15 @@
       <p><strong>Portfolio</strong>: </p>
       <p><strong>Contact</strong>: </p>
       <p><strong>Footer</strong>: </p>
-      <h3>Wireframes</h3>
-      <p></p>
-      <h3>Goal</h3>
-      <p></p>
-      <div class="brightness">
-         <a href="https://www.linkedin.com/in/joycorsi" target="_blank">
-            <img src="./images/logo.png" width="100px"></a>
-         <p class="container">Visit LinkedIn to learn about my previous work experience and education.</p>
+		<!--End Content Strategy-->
+		<h3>Wireframes</h3>
+		<div class="brightness">
+         <a href="./images/mobile1.png" target="_blank">
+            <img src="./images/mobile1.png" height="387px"></a>
+			<a href="./images/mobile2.png" target="_blank">
+				<img src="./images/mobile2.png" height="387"></a>
+			<a href="./images/mobile3.png" target="_blank">
+				<img src="./images/mobile3.png" height="387px"></a>
       </div>
-
-      <ul class="nav">
-         <li class="nav li"><a name="Milestone-2">Milestone 2</a></li>
-      </ul>
-      <p>Document - in detail - the content you plan to feature in each section of your site. Be sure to include any details regarding interactive features and functionality that you wish to include. You are not expected to have any actual content prepared at this time, rather only a plan for the kind of content you would like to feature.</p>
-      <p>Keep this section brief and succinct, yet detailed enough to guide your development phase. One paragraph per content section should be sufficient.</p>
    </body>
 </html>
