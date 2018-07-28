@@ -10,8 +10,8 @@
 
 		<!--Header navigation-->
 		<ul class="nav">
-			<li class="nav li"><a href="./milestone-1.php">Milestone 1</a></li>
-			<li class="nav li"><a href="#Milestone-2">Milestone 2</a></li>
+			<li class="nav li"><a href="./milestone-1.php">Milestone 1</a> | </li>
+			<li class="nav li"><a href="./milestone-2.php">Milestone 2</a></li>
 		</ul>
 <!--End header navigation-->
 
