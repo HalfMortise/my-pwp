@@ -24,9 +24,9 @@
 		<!--Content Strategy-->
       <h3>Content Strategy</h3>
       <p><strong>Nav Menu</strong>: The navigation menu will contain five sections/anchors on the same static page: Home, About, Services, Portfolio, and Contact. For the mobile version, the navigation will be collapsed by default, in the top right corner, and will expand downward when selected. On the desktop version, it will be displayed inline-block and aligned to the right.</p>
-      <p><strong>Header</strong>: </p>
-      <p><strong>About Me</strong>: </p>
-      <p><strong>Services</strong>: </p>
+      <p><strong>Header</strong>: The header will be simple and succinct, stating only my name-brand in large characters. When user navigates downward, the header will shrink to fill only the top left corner of the page.</p>
+      <p><strong>About Me</strong>: The about-me section of the page will contain a brief description of my professional skills and purpose/mission.</p>
+      <p><strong>Services</strong>: Because I plan to start my own small web development start-up, I would like to advertise the services that I am available for. These will include UI/UX design, Full-stack Web Development, and Consulting.</p>
       <p><strong>Portfolio</strong>: </p>
       <p><strong>Contact</strong>: </p>
       <p><strong>Footer</strong>: </p>
