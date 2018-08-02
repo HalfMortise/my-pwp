@@ -24,12 +24,12 @@
 		<!--Content Strategy-->
       <h3>Content Strategy</h3>
       <p><strong>Nav Menu</strong>: The navigation menu will contain five sections/anchors on the same static page: Home, About, Services, Portfolio, and Contact. For the mobile version, the navigation will be collapsed by default, in the top right corner, and will expand downward when selected. On the desktop version, it will be displayed inline-block and aligned to the right.</p>
-      <p><strong>Header</strong>: The header will be simple and succinct, stating only my name-brand in large characters. When user navigates downward, the header will shrink to fill only the top left corner of the page.</p>
+      <p><strong>Header</strong>: The header will be simple and succinct, stating only my name-brand in large characters. When user navigates downward, the header will shrink to fill only the top left corner of the page. Directly below the header is an hr and then links to my pages/profiles such as LinkedIn, GitHub, Facebook, etc.</p>
       <p><strong>About Me</strong>: The about-me section of the page will contain a brief description of my professional skills and purpose/mission.</p>
-      <p><strong>Services</strong>: Because I plan to start my own small web development start-up, I would like to advertise the services that I am available for. These will include UI/UX design, Full-stack Web Development, and Consulting.</p>
-      <p><strong>Portfolio</strong>: </p>
-      <p><strong>Contact</strong>: </p>
-      <p><strong>Footer</strong>: </p>
+      <p><strong>Services</strong>: Because I plan to have my own small web development start-up, I would like to advertise the services that I am available for. These will include UI/UX design, Full-stack Web Development, and Consulting.</p>
+      <p><strong>Portfolio</strong>: Portfolio section will be fairly straightforward, with a snapshot of past projects I've worked on. At this point, there aren't very many, so I will be featuring my Bootstrap challenge, NM-Outdoors, and a passion project to be determined. Below the snapshot will be a brief paragraph describing the purpose of the site. The snapshots will be hyperlinked to the actual site so that visitors can browse for themselves.</p>
+      <p><strong>Contact</strong>: There will be a simple contact form to allow users to contact me directly from the page to express interest in my services. This will include input areas for Name, Email, Text, and will also have a Captcha requirement prior to sending.</p>
+      <p><strong>Footer</strong>: The footer will be nothing fancy, but will have my brand - HalfMortise - centered at the bottom of the page with a copyright. Directly above the footer will be more links to the same external profiles/pages.</p>
 		<!--End Content Strategy-->
 		<h3>Wireframes</h3>
 		<div class="brightness">
