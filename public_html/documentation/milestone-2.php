@@ -4,7 +4,7 @@
    <head>
       <meta charset="UTF-8">
       <title>Milestone 2</title>
-      <link rel="stylesheet" href="./style.css">
+      <link rel="stylesheet" href="../style.css">
    </head>
    <body>
 
@@ -34,19 +34,19 @@
 		<h3>Wireframes</h3>
 		<div class="brightness">
 			<!--Mobile Wireframes-->
-         <a href="./images/mobile1.png" target="_blank">
-            <img src="./images/mobile1.png" height="387px"></a>
-			<a href="./images/mobile2.png" target="_blank">
-				<img src="./images/mobile2.png" height="387"></a>
-			<a href="./images/mobile3.png" target="_blank">
-				<img src="./images/mobile3.png" height="387px"></a>
+         <a href="../images/mobile1.png" target="_blank">
+            <img src="../images/mobile1.png" height="387px"></a>
+			<a href="../images/mobile2.png" target="_blank">
+				<img src="../images/mobile2.png" height="387"></a>
+			<a href="../images/mobile3.png" target="_blank">
+				<img src="../images/mobile3.png" height="387px"></a>
 			<!--Desktop Wireframes--><br />
-			<a href="./images/desktop1.png" target="_blank">
-				<img src="./images/desktop1.png" height="387px"></a><br />
-			<a href="./images/desktop1.png" target="_blank">
-				<img src="./images/desktop2.png" height="387"></a><br />
-			<a href="./images/desktop3.png" target="_blank">
-				<img src="./images/desktop3.png" height="387px"></a>
+			<a href="../images/desktop1.png" target="_blank">
+				<img src="../images/desktop1.png" height="387px"></a><br />
+			<a href="../images/desktop1.png" target="_blank">
+				<img src="../images/desktop2.png" height="387"></a><br />
+			<a href="../images/desktop3.png" target="_blank">
+				<img src="../images/desktop3.png" height="387px"></a>
       </div>
    </body>
 </html>

@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Milestone 1</title>
-		<link rel="stylesheet" href="./style.css">
+		<link rel="stylesheet" href="../style.css">
 	</head>
 	<body>
 
@@ -25,7 +25,7 @@
 		<!--This persona reflects a notional early user of this site-->
 		<h2>Persona</h2>
 		<div>
-			<img class="img" src="./images/hr.jpg" width="200px">
+			<img class="img" src="../images/hr.jpg" width="200px">
 			<ul>Name: Laura Groves</ul>
 			<ul>Gender: Female</ul>
 			<ul>Age: 38</ul>
@@ -45,12 +45,12 @@
 		<p>Use Case: When Laura is hiring new software developers, she reviews resumes and LinkedIn profiles, but she also regularly searches the web for candidates' additional online presence. Her project managers have let her know to be on the look-out for GitHub activity and websites that the candidates may have already authored, to include a personal website. To them, this reflects intiative, confidence in and a willingess to market one's skills, and full immersion into the industry.</p>
 		<div class="brightness">
 			<a href="https://www.linkedin.com/in/joycorsi" target="_blank">
-				<img src="./images/logo.png" width="100px"></a>
+				<img src="../images/logo.png" width="100px"></a>
 				<p class="container">Visit LinkedIn to learn about my previous work experience and education.</p>
 		</div>
 		<div class="brightness">
 			<a href="https://github.com/HalfMortise" target="_blank">
-				<img src="./images/github.png" width="100px"></a>
+				<img src="../images/github.png" width="100px"></a>
 				<p class="container">Visit GitHub to see projects I've worked on myself as well as contributed to.</p>
 		</div>
 		<ul class="nav">
