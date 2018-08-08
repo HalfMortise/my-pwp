@@ -56,42 +56,66 @@
       <!--Main Body-->
 
 
-		<!--ABOUT Container-->
-		<div class="container-fluid justify-content-center font">
-			<div class="row">
-				<p class="justify-content-center">
-					This is where <a href="https://www.google.com/" target="_blank">About Me</a> will go.
+		<!--JUMBOTRON Section-->
+		<section>
+
+		</section>
+
+
+		<!--ABOUT Section-->
+		<section>
+			<div class="container-fluid justify-content-center font">
+				<div class="row">
+					<p class="justify-content-center">
+						This is where <a href="https://www.google.com/" target="_blank">About Me</a> will go.
+					</p>
+				</div>
+			</div>
+		</section>
+
+
+		<!--SERVICES Section-->
+		<section>
+			<div class="container font">
+				<p>
+					This is where Services will go.
 				</p>
 			</div>
-		</div>
-		<!--/ABOUT Container-->
+		</section>
+
+
+		<!--PORTFOLIO Section-->
+		<section>
+			<div class="container-fluid justify-content-center font">
+				<div class="row">
+					<div class="col-md-4">
+						<p>
+							This is where Portfolio will go.
+						</p>
+					</div>
+					<div class="col-md-4">
+						<p>
+							This is where Portfolio will go.
+						</p>
+					</div>
+					<div class="col-md-4">
+						<p>
+							This is where Portfolio will go.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 
 
-      <div class="container font">
-         <p>
-            This is where Services will go.
-         </p>
-      </div>
-      <div class="container-fluid justify-content-center font">
-         <div class="row">
-            <div class="col-md-4">
-               <p>
-               This is where Portfolio will go.
-               </p>
-            </div>
-            <div class="col-md-4">
-               <p>
-                  This is where Portfolio will go.
-               </p>
-            </div>
-            <div class="col-md-4">
-               <p>
-                  This is where Portfolio will go.
-               </p>
-            </div>
-         </div>
-      </div>
+
+
+
+
+
+
+
 
 
 
