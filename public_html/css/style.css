@@ -11,7 +11,7 @@
 
 .navbar-brand {
 	font-family: 'Playfair Display SC', serif;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 .nav li {
@@ -52,6 +52,6 @@ a:hover {
 }
 
 .font {
-	font-family: 'Playfair Display SC', serif;
-	font-size: 12px;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
 }

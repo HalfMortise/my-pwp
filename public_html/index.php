@@ -5,9 +5,12 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title>Welcome to My Page</title>
       <!--CSS Styling-->
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-      <link rel="stylesheet" href="./css/style.css">
-		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet"> 	</head>
+      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" >
+      <link href="./css/style.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+	</head>
+
    <body>
 
 
@@ -51,20 +54,26 @@
 
 
       <!--Main Body-->
-		<div>
-			<div class="container">
-				<p class="">
+
+
+		<!--ABOUT Container-->
+		<div class="container-fluid justify-content-center font">
+			<div class="row">
+				<p class="justify-content-center">
 					This is where <a href="https://www.google.com/" target="_blank">About Me</a> will go.
 				</p>
 			</div>
 		</div>
+		<!--/ABOUT Container-->
 
-      <div class="container">
+
+
+      <div class="container font">
          <p>
             This is where Services will go.
          </p>
       </div>
-      <div class="container">
+      <div class="container-fluid justify-content-center font">
          <div class="row">
             <div class="col-md-4">
                <p>
