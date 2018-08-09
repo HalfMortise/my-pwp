@@ -88,7 +88,7 @@
 
 		<!--PORTFOLIO Section-->
 		<section class="py-5 font">
-			<div>
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-4">
 						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
@@ -121,7 +121,14 @@
 			</div>
 		</section>
 
-
+		<!--FOOTER Section-->
+		<section class="font-footer">
+			<footer class="bg-dark text-light text-center py-4">
+				<div class="container">
+					<p>&copy;&nbsp;<a href="https://www.github.com/halfmortise">HalfMortise</a></p>
+				</div>
+			</footer>
+		</section>
 
 
 
