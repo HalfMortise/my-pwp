@@ -38,6 +38,13 @@
 	align-items: center;
 }
 
+.img-opacity {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	opacity: 0.7;
+}
+
+
 a:link, a:visited, a:active {
 	text-decoration: none; color: #020202;
 }
@@ -54,4 +61,10 @@ a:hover {
 .font {
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
+}
+
+.font-footer {
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	color: white;
 }
