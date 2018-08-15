@@ -79,8 +79,8 @@
 
 
 			<!--ABOUT SECTION HEADER-->
-			<section class="container-fluid text-md-center font">
-				<div class="row text-md-center">
+			<section class="container-fluid  justify-content-center text-center font">
+				<div class="row">
 					<div class="col-md-12 justify-content-center">
 						<h4 class="px-5">
 							About Me
@@ -90,7 +90,7 @@
 			</section>
 
 			<!--ABOUT Section-->
-			<section class="px-5 font justify-content-center">
+			<section class="px-5 font  justify-content-center text-center">
 				<div class="row text-md-center">
 					<div class="col-md-8 offset-md-2">
 						<p>
@@ -119,7 +119,7 @@
 
 <!--SERVICES-->
 			<div class="font album py-5 bg-light">
-				<div class="container-fluid">
+				<div class="container-fluid justify-content-center text-center">
 					<div class="row">
 						<div class="col-md-12 justify-content-center">
 							<h4 class="px-5">
@@ -135,12 +135,6 @@
 								<p class="justify-content-center">UI/UX Design</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-									<div class="d-flex justify-content-between align-items-center">
-										<div class="btn-group">
-											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-											<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-										</div>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -150,13 +144,6 @@
 								<p class="justify-content-center">Full-stack Web Development</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-									<div class="d-flex justify-content-between align-items-center">
-										<div class="btn-group">
-											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-											<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-										</div>
-										<small class="text-muted">9 mins</small>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -166,13 +153,6 @@
 								<p class="justify-content-center">Consulting</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-									<div class="d-flex justify-content-between align-items-center">
-										<div class="btn-group">
-											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-											<button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-										</div>
-										<small class="text-muted">9 mins</small>
-									</div>
 								</div>
 							</div>
 						</div>
@@ -194,7 +174,7 @@
 
 
 		<!--PORTFOLIO SECTION HEADER-->
-		<section class="container-fluid text-md-center font">
+		<section class="container-fluid text-md-center font justify-content-center text-center">
 			<div class="row text-md-center">
 				<div class="col-md-12 justify-content-center">
 					<h4>
@@ -207,7 +187,7 @@
 
 		<!--PORTFOLIO Section-->
 		<section class="py-5 font">
-			<div class="container-fluid">
+			<div class="container-fluid justify-content-center text-center">
 				<div class="row">
 					<div class="col-md-4">
 						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
@@ -257,9 +237,9 @@
 		<!--CONTACT Section-->
 
 		<!--CONTACT SECTION HEADER-->
-		<section class="container-fluid text-md-center font">
+		<section class="container-fluid font justify-content-center text-center">
 			<div class="row text-md-center">
-				<div class="col-md-12 justify-content-center">
+				<div class="col-md-12">
 					<h4>
 					Contact
 					</h4>
