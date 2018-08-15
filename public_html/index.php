@@ -91,10 +91,10 @@
 
 			<!--ABOUT Section-->
 			<section class="px-5 font">
-				<div>
-					<div>
+				<div class="row text-md-center">
+					<div class="col-md-9">
 						<p>
-							This is where <a href="https://www.google.com/" target="_blank">About Me</a> will go.
+							This is where <a href="https://www.github.com/halfmortise" target="_blank">About Me</a> will go.
 						</p>
 					</div>
 				</div>
@@ -117,12 +117,12 @@
 
 
 <!--SERVICES SECTION-->
-			<div class="album py-5 bg-light">
+			<div class="font album py-5 bg-light">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-4 mb-4">
 							<div class="card mb-4 shadow-sm justify-content-center">
-								<img src="./images/desktop.svg" width="25px" alt="" />
+								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
@@ -136,9 +136,9 @@
 						</div>
 						<div class="col-md-4 mb-4">
 							<div class="card mb-4 shadow-sm">
-								<img class="card-img-top mb-4" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+								<img class="img-opacity" src="./images/cogs.svg" width="30px" alt="" />
 								<div class="card-body mb-4">
-									<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+									<p class="card-text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="btn-group">
 											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -151,9 +151,9 @@
 						</div>
 						<div class="col-md-4 mb-4">
 							<div class="card mb-4 shadow-sm">
-								<img class="card-img-top mb-4" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+								<img class="img-opacity" src="./images/users.svg" width="30px" alt="" />
 								<div class="card-body mb-4">
-									<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+									<p class="card-text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="btn-group">
 											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
