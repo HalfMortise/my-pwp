@@ -79,7 +79,7 @@
 
 
 			<!--ABOUT SECTION HEADER-->
-			<section class="container-fluid  justify-content-center text-center font">
+			<section class="container-fluid justify-content-center text-center font">
 				<div class="row">
 					<div class="col-md-12 justify-content-center">
 						<h4 class="px-5">
@@ -90,7 +90,7 @@
 			</section>
 
 			<!--ABOUT Section-->
-			<section class="px-5 font  justify-content-center text-center">
+			<section class="px-5 font justify-content-center text-center">
 				<div class="row text-md-center">
 					<div class="col-md-8 offset-md-2">
 						<p>
@@ -175,7 +175,7 @@
 
 		<!--PORTFOLIO SECTION HEADER-->
 		<section class="container-fluid text-md-center font justify-content-center text-center">
-			<div class="row text-md-center">
+			<div class="row py-5 text-md-center">
 				<div class="col-md-12 justify-content-center">
 					<h4>
 					Portfolio
@@ -238,7 +238,7 @@
 
 		<!--CONTACT SECTION HEADER-->
 		<section class="container-fluid font justify-content-center text-center">
-			<div class="row text-md-center">
+			<div class="row py-5 text-md-center">
 				<div class="col-md-12">
 					<h4>
 					Contact
@@ -253,6 +253,8 @@
 
 
 
+
+		<!-- CONTACT -->
 
 
 
