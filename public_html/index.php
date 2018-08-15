@@ -121,7 +121,8 @@
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-4 mb-4">
-							<div class="card mb-4 shadow-sm justify-content-center">
+							<div class="card-title mb-4 shadow-sm justify-content-center">
+								<p class="justify-content-center">UI/UX Design</p>
 								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -135,10 +136,11 @@
 							</div>
 						</div>
 						<div class="col-md-4 mb-4">
-							<div class="card mb-4 shadow-sm">
+							<div class="card-title mb-4 shadow-sm">
+								<p class="justify-content-center">Full-stack Web Development</p>
 								<img class="img-opacity" src="./images/cogs.svg" width="30px" alt="" />
 								<div class="card-body mb-4">
-									<p class="card-text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="btn-group">
 											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -150,10 +152,11 @@
 							</div>
 						</div>
 						<div class="col-md-4 mb-4">
-							<div class="card mb-4 shadow-sm">
+							<div class="card-title mb-4 shadow-sm">
+								<p class="justify-content-center">Consulting</p>
 								<img class="img-opacity" src="./images/users.svg" width="30px" alt="" />
 								<div class="card-body mb-4">
-									<p class="card-text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="btn-group">
 											<button type="button" class="btn btn-sm btn-outline-secondary">View</button>
