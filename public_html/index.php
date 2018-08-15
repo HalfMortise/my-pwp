@@ -54,7 +54,7 @@
 <!--TO DO-->
 <!--Images needed: header bg (laptop/code/porch/coffee), resume icon, svcs icon, consulting icon, wireframe icon, gears icon -->
 <!--add padding between cards for responsive version, too close together (py)-->
-<!--centering also not working on responsive version-->
+<!--padding needed between section titles and section content-->
 
 
       <!--Main Body-->
@@ -90,12 +90,13 @@
 			</section>
 
 			<!--ABOUT Section-->
-			<section class="px-5 font">
+			<section class="px-5 font justify-content-center">
 				<div class="row text-md-center">
-					<div class="col-md-9">
+					<div class="col-md-8 offset-md-2">
 						<p>
 							This is where <a href="https://www.github.com/halfmortise" target="_blank">About Me</a> will go.
 						</p>
+						<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					</div>
 				</div>
 			</section>
@@ -110,20 +111,28 @@
 
 
 
+<!--SERVICES SECTION HEADER-->
+			<section class="container-fluid text-md-center font">
+				<div class="row text-md-center">
 
+				</div>
 
-
-
-
-
-<!--SERVICES SECTION-->
+<!--SERVICES-->
 			<div class="font album py-5 bg-light">
 				<div class="container-fluid">
 					<div class="row">
+						<div class="col-md-12 justify-content-center">
+							<h4 class="px-5">
+								Services
+							</h4>
+
+
+
+						</div>
 						<div class="col-md-4 mb-4">
-							<div class="card-title mb-4 shadow-sm justify-content-center">
-								<p class="justify-content-center">UI/UX Design</p>
+							<div class="card-title mb-4 justify-content-center">
 								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
+								<p class="justify-content-center">UI/UX Design</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
@@ -136,9 +145,9 @@
 							</div>
 						</div>
 						<div class="col-md-4 mb-4">
-							<div class="card-title mb-4 shadow-sm">
-								<p class="justify-content-center">Full-stack Web Development</p>
+							<div class="card-title mb-4">
 								<img class="img-opacity" src="./images/cogs.svg" width="30px" alt="" />
+								<p class="justify-content-center">Full-stack Web Development</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
@@ -152,9 +161,9 @@
 							</div>
 						</div>
 						<div class="col-md-4 mb-4">
-							<div class="card-title mb-4 shadow-sm">
-								<p class="justify-content-center">Consulting</p>
+							<div class="card-title mb-4">
 								<img class="img-opacity" src="./images/users.svg" width="30px" alt="" />
+								<p class="justify-content-center">Consulting</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 									<div class="d-flex justify-content-between align-items-center">
@@ -169,9 +178,10 @@
 						</div>
 					</div>
 				</div>
+			</section>
+
 <!--END SERVICES SECTION-->
 
-			</div>
 		</main>
 
 
