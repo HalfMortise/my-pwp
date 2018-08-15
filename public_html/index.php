@@ -6,9 +6,13 @@
       <title>Welcome to My Page</title>
       <!--CSS Styling-->
       <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" >
-      <link href="./css/style.css" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+		<link href="./css/style.css" rel="stylesheet">
+
 	</head>
 	<body>
 
@@ -47,10 +51,10 @@
 	</header>
 	<!--/NAVBAR-->
 
-
+<!--TO DO-->
 <!--Images needed: header bg (laptop/code/porch/coffee), resume icon, svcs icon, consulting icon, wireframe icon, gears icon -->
-
-
+<!--add padding between cards for responsive version, too close together (py)-->
+<!--centering also not working on responsive version-->
 
 
       <!--Main Body-->
@@ -61,14 +65,42 @@
 
 		</section>
 
+		<!--ABOUT SECTION HEADER-->
+		<section class="container-fluid text-md-center font">
+			<div class="row text-md-center">
+				<div class="col-md-12 justify-content-center">
+					<h4 class="px-5">
+					About Me
+					</h4>
+				</div>
+			</div>
+		</section>
 
 		<!--ABOUT Section-->
-		<section class="font">
+		<section class="px-5 font">
 			<div>
 				<div>
 					<p>
 						This is where <a href="https://www.google.com/" target="_blank">About Me</a> will go.
 					</p>
+				</div>
+			</div>
+		</section>
+
+		<!--SERVICES SECTION HEADER-->
+		<section class="py-5 font text-center">
+			<div class="container-fluid text-center">
+				<div class="jumbotron text-center">
+					<h4 class="display-5 px-5 text-center">Services</h4>
+					<div class="card col-sm-4 col-md-4 col-lg-4 my-5 p-5 ml-0 mx-auto">
+						<div class="text-center border-light"></div>
+					</div>
+					<div class="card col-sm-4 col-md-4 col-lg-4 my-5 p-5 ml-0 mx-auto">
+						<div class="text-center border-light"></div>
+					</div>
+					<div class="card col-sm-4 col-md-4 col-lg-4 my-5 p-5 ml-0 mx-auto">
+						<div class="text-center border-light"></div>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -79,8 +111,8 @@
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="card border-light">
-					<img class="img-opacity" src="images/desktop.svg" width="25px" alt="" />
-					<div class="card-body">
+					<div class="card-body justify-content-center">
+						<img class="img-opacity" src="images/desktop.svg" width="25px" alt="" />
 						<h6 class="card-title">UI/UX Design</h6>
 						<p class="card-text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					</div>
@@ -88,8 +120,8 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="card border-light">
-					<img class="img-opacity" src="images/cogs.svg" width="30px" alt="" />
-					<div class="card-body">
+					<div class="card-body justify-content-center">
+						<img class="img-opacity" src="images/cogs.svg" width="30px" alt="" />
 						<h6 class="card-title">Full-stack Web Development</h6>
 						<p class="card-text">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
 					</div>
@@ -97,8 +129,8 @@
 			</div>
 			<div class="col-sm-4">
 				<div class="card border-light">
-					<img class="img-opacity" src="images/users.svg" width="30px" alt="" />
-					<div class="card-body">
+					<div class="card-body justify-content-center">
+						<img class="img-opacity" src="images/users.svg" width="30px" alt="" />
 						<h6 class="card-title">Consulting</h6>
 						<p class="card-text">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
 					</div>
@@ -108,6 +140,16 @@
 	</section>
 
 
+		<!--PORTFOLIO SECTION HEADER-->
+		<section class="container-fluid text-md-center font">
+			<div class="row text-md-center">
+				<div class="col-md-12 justify-content-center">
+					<h4>
+					Portfolio
+					</h4>
+					<div class="col-md-12 justify-content-center">
+				</div>
+		</section>
 
 
 
@@ -151,6 +193,24 @@
 
 
 		<!--CONTACT Section-->
+
+
+		<!--CONTACT SECTION HEADER-->
+		<section class="container-fluid text-md-center font">
+			<div class="row text-md-center">
+				<div class="col-md-12 justify-content-center">
+					<h4>
+					Contact
+					</h4>
+				</div>
+			</div>
+		</section>
+
+
+
+
+
+
 
 
 
