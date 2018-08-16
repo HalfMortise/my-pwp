@@ -11,7 +11,7 @@
 
 .navbar-brand {
 	font-family: 'Playfair Display SC', serif;
-	font-size: 20px;
+	font-size: 26px;
 }
 
 .nav li {
@@ -67,4 +67,28 @@ a:hover {
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
 	color: white;
+}
+
+.jumbo-img {
+	box-shadow: 2px 2px 6px 6px #aaa;
+}
+
+.click-transition {
+	-webkit-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-o-transition-duration: 1s;
+	-ms-transition-duration: 1s;
+	transition-duration: 1s;
+
+	-webkit-transition-timing-function: ease;
+	-moz-transition-timing-function: ease;
+	-o-transition-timing-function: ease;
+	-ms-transition-timing-function: ease;
+	transition-timing-function: ease;
+
+	-webkit-transition-delay: 2s;
+	-moz-transition-delay: 2s;
+	-o-transition-delay: 2s;
+	-ms-transition-delay: 2s;
+	transition-delay: 2s;
 }

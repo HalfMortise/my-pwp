@@ -33,16 +33,16 @@
 							<a class="nav-link" href="https://www.halfmortise.com/" target="_blank">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">About</a>
+							<a class="nav-link click-transition" href="#about">About</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Services</a>
+							<a class="nav-link" href="#services">Services</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Portfolio</a>
+							<a class="nav-link" href="#portfolio">Portfolio</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Contact</a>
+							<a class="nav-link" href="#contact">Contact</a>
 						</li>
 					</ul>
 				</div>
@@ -61,11 +61,15 @@
 
 
 		<!--JUMBOTRON Section-->
-		<main role="main">
-			<section id="jumbotron" class="jumbotron font text-center">
+		<main role="main" class="mt-3">
+			<img class="img-fluid jumbo-img" src="./images/0477.jpg" />
+
+
+			<section id="jumbotron" class="font text-center py-5">
+
 				<div class="container-fluid">
 					<h1 class="jumbotron-heading">WELCOME</h1>
-					<p class="lead text-muted">Maybe put a background image here?</p>
+					<p class="lead text-muted">Put a welcome message here</p>
 					<p>
 						<a href="#" class="btn btn-sm btn-outline-secondary">Go there</a>
 					</p>
@@ -79,7 +83,7 @@
 
 
 			<!--ABOUT SECTION HEADER-->
-			<section class="container-fluid justify-content-center text-center font">
+			<section id="about" class="jumbotron container-fluid justify-content-center text-center font">
 				<div class="row">
 					<div class="col-md-12 justify-content-center">
 						<h4 class="px-5">
@@ -87,10 +91,8 @@
 						</h4>
 					</div>
 				</div>
-			</section>
 
 			<!--ABOUT Section-->
-			<section class="px-5 font justify-content-center text-center">
 				<div class="row text-md-center">
 					<div class="col-md-8 offset-md-2">
 						<p>
@@ -109,26 +111,22 @@
 
 
 
+<!--SERVICES-->
 
 
 <!--SERVICES SECTION HEADER-->
-			<section class="container-fluid text-md-center font">
-				<div class="row text-md-center">
+	<section id="services" class="container-fluid text-md-center font">
 
-				</div>
-
-<!--SERVICES-->
 			<div class="font album py-5 bg-light">
 				<div class="container-fluid justify-content-center text-center">
 					<div class="row">
 						<div class="col-md-12 justify-content-center">
-							<h4 class="px-5">
-								Services
-							</h4>
-
-
-
+							<h4 class="px-5">Services</h4>
 						</div>
+
+
+
+
 						<div class="col-md-4 mb-4">
 							<div class="card-title mb-4 justify-content-center">
 								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
@@ -158,11 +156,12 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</div>
+		</section>
 
 <!--END SERVICES SECTION-->
 
-		</main>
+	</main>
 
 
 
@@ -174,7 +173,7 @@
 
 
 		<!--PORTFOLIO SECTION HEADER-->
-		<section class="container-fluid text-md-center font justify-content-center text-center">
+		<section id="portfolio" class="container-fluid text-md-center font justify-content-center text-center">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12 justify-content-center">
 					<h4>
@@ -237,7 +236,7 @@
 		<!--CONTACT Section-->
 
 		<!--CONTACT SECTION HEADER-->
-		<section class="container-fluid font justify-content-center text-center">
+		<section id="contact" class="container-fluid font justify-content-center text-center">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12">
 					<h4>
