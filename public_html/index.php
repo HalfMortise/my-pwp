@@ -33,7 +33,7 @@
 							<a class="nav-link" href="https://www.halfmortise.com/" target="_blank">Home</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link click-transition" href="#about">About</a>
+							<a class="nav-link" href="#about">About</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#services">Services</a>
@@ -83,7 +83,7 @@
 
 
 			<!--ABOUT SECTION HEADER-->
-			<section id="about" class="jumbotron container-fluid justify-content-center text-center font">
+			<section id="about" class="jumbotron container-fluid justify-content-center text-center font transition-ease-in transition-ease-out">
 				<div class="row">
 					<div class="col-md-12 justify-content-center">
 						<h4 class="px-5">
