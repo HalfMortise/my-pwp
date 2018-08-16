@@ -82,8 +82,8 @@
 
 
 
-			<!--ABOUT SECTION HEADER-->
-			<section id="about" class="jumbotron container-fluid justify-content-center text-center font transition-ease-in transition-ease-out">
+<!--ABOUT SECTION HEADER-->
+			<section id="about" class="jumbotron container-fluid justify-content-center text-center font">
 				<div class="row">
 					<div class="col-md-12 justify-content-center">
 						<h4 class="px-5">
@@ -92,7 +92,7 @@
 					</div>
 				</div>
 
-			<!--ABOUT Section-->
+<!--ABOUT Section-->
 				<div class="row text-md-center">
 					<div class="col-md-8 offset-md-2">
 						<p>
@@ -172,7 +172,7 @@
 
 
 
-		<!--PORTFOLIO SECTION HEADER-->
+<!--PORTFOLIO SECTION HEADER-->
 		<section id="portfolio" class="container-fluid text-md-center font justify-content-center text-center">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12 justify-content-center">
@@ -184,7 +184,7 @@
 		</section>
 
 
-		<!--PORTFOLIO Section-->
+<!--PORTFOLIO Section-->
 		<section class="py-5 font">
 			<div class="container-fluid justify-content-center text-center">
 				<div class="row">
@@ -233,9 +233,9 @@
 
 
 
-		<!--CONTACT Section-->
+<!--CONTACT Section-->
 
-		<!--CONTACT SECTION HEADER-->
+<!--CONTACT SECTION HEADER-->
 		<section id="contact" class="container-fluid font justify-content-center text-center">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12">
@@ -253,7 +253,7 @@
 
 
 
-		<!-- CONTACT -->
+<!-- CONTACT -->
 
 
 
@@ -261,7 +261,7 @@
 
 
 
-		<!--FOOTER Section-->
+<!--FOOTER Section-->
 		<section class="font-footer">
 			<footer class="bg-dark text-light text-center py-4">
 				<div class="container">
