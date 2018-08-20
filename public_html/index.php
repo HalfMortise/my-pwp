@@ -48,8 +48,13 @@
 				</div>
 			</nav>
 		</div>
+<!--/NAVBAR-->
+		<div class="title">
+			<h1>- WELCOME -</h1>
+			<p>Scroll for more!</p>
+		</div>
 	</header>
-	<!--/NAVBAR-->
+
 
 <!--TO DO-->
 <!--Images needed: header bg (laptop/code/porch/coffee), resume icon, svcs icon, consulting icon, wireframe icon, gears icon -->
@@ -62,7 +67,6 @@
 
 		<!--JUMBOTRON Section-->
 		<main role="main" class="mt-3">
-			<img class="img-fluid jumbo-img" src="./images/0477.jpg" />
 
 
 			<section id="jumbotron" class="font text-center py-5">
@@ -186,7 +190,7 @@
 
 <!--PORTFOLIO Section-->
 		<section class="py-5 font">
-			<div class="container-fluid justify-content-center text-center">
+			<div class="container-fluid justify-content-center text-center" style="background-image src="/images/970200-half.jpg")">
 				<div class="row">
 					<div class="col-md-4">
 						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
@@ -216,7 +220,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
 		</section>
 
 

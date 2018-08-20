@@ -23,6 +23,35 @@
 	padding: 10px;
 }
 
+header {
+	background:
+		linear-gradient(
+			rgba(0, 0, 0, 0),
+			rgba(0, 0, 0, 0.5)
+		),
+		url(https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/images/blurred-bg.jpg);
+	background-size: cover;
+	margin: 5px;
+	height: 90vh;
+	box-shadow: 2px 2px 6px 6px #aaa;
+	font-family: 'Playfair Display SC', serif;
+}
+
+.title {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+	margin: 0;
+	font-size: 8vw;
+	white-space: nowrap;
+}
 
 .brightness {
 	background-color: white;
@@ -78,3 +107,4 @@ a:hover {
 	animation-duration: 0.25s;
 	transition-timing-function: ease-in;
 }
+
