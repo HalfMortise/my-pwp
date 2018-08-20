@@ -9,11 +9,12 @@
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 		<link href="./css/style.css" rel="stylesheet">
 		<script rel="script" src="./js/script.js"></script>
-
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	</head>
 	<body>
@@ -171,7 +172,7 @@
 
 
 <!--PORTFOLIO Section-->
-		<section class="py-5 font">
+		<section class="py-5 mx-4 font">
 			<div class="container-fluid justify-content-center text-center">
 				<div class="row">
 					<div class="col-md-3 shadow-box">
@@ -183,7 +184,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3 offset-md-1 shadow-box">
+					<div class="col-md-3 shadow-box">
 						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
 						<div class="card mb-4">
 							<div class="card-body">
@@ -192,7 +193,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3 offset-md-1 shadow-box">
+					<div class="col-md-3 shadow-box">
 						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
 						<div class="card mb-4">
 							<div class="card-body">
@@ -231,14 +232,7 @@
 				</div>
 			</div>
 
-
-
-
-
 <!-- CONTACT -->
-
-
-
 
 			<div class="contact-form">
 
@@ -268,23 +262,20 @@
 							<p>Message</p>
 							<textarea name="message" class="form-input-text form-control" rows="6" required="required"></textarea>
 						</div>
+
 						<div>
 							<p>
 								<a href="#"><button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button></a>
 							</p>
 						</div>
+
+						<div class="g-recaptcha" data-sitekey="https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/index.php">
+
+						</div>
+
 					</div>
 				</form>
 			</div>
-
-
-
-
-
-
-
-
-
 		</section>
 
 
