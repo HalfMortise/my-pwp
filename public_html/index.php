@@ -65,47 +65,28 @@
       <!--Main Body-->
 
 
-		<!--JUMBOTRON Section-->
+<!--ABOUT ME Section-->
 		<main role="main" class="mt-3">
 
 
 			<section id="jumbotron" class="font text-center py-5">
 
 				<div class="container-fluid">
-					<h1 class="jumbotron-heading">WELCOME</h1>
-					<p class="lead text-muted">Put a welcome message here</p>
+					<h2 class="jumbotron-heading">About Me</h2>
+					<p>
+						This is where <a href="https://www.github.com/halfmortise" target="_blank">About Me</a> will go.
+					</p>
+					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
 						<a href="#" class="btn btn-sm btn-outline-secondary">Go there</a>
 					</p>
 				</div>
 			</section>
-<!--END JUMBOTRON-->
+<!--END ABOUT ME-->
 
 
 
 
-
-
-<!--ABOUT SECTION HEADER-->
-			<section id="about" class="jumbotron container-fluid justify-content-center text-center font">
-				<div class="row">
-					<div class="col-md-12 justify-content-center">
-						<h4 class="px-5">
-							About Me
-						</h4>
-					</div>
-				</div>
-
-<!--ABOUT Section-->
-				<div class="row text-md-center">
-					<div class="col-md-8 offset-md-2">
-						<p>
-							This is where <a href="https://www.github.com/halfmortise" target="_blank">About Me</a> will go.
-						</p>
-						<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-					</div>
-				</div>
-			</section>
 
 
 
@@ -119,9 +100,9 @@
 
 
 <!--SERVICES SECTION HEADER-->
-	<section id="services" class="container-fluid text-md-center font">
+	<section id="services" class="jumbotron container-fluid text-md-center font">
 
-			<div class="font album py-5 bg-light">
+			<div class="font album py-4 bg-light">
 				<div class="container-fluid justify-content-center text-center">
 					<div class="row">
 						<div class="col-md-12 justify-content-center">
@@ -132,7 +113,7 @@
 
 
 						<div class="col-md-4 mb-4">
-							<div class="card-title mb-4 justify-content-center">
+							<div class="card-title mb-3 justify-content-center">
 								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
 								<p class="justify-content-center">UI/UX Design</p>
 								<div class="card-body mb-4">
