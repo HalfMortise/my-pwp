@@ -88,6 +88,10 @@ a:hover {
 	text-align: center;
 }
 
+.shadow-box {
+	box-shadow: 8px 8px 10px #aaa;
+}
+
 .font {
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
