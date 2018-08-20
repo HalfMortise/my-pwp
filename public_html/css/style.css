@@ -112,3 +112,21 @@ a:hover {
 	transition-timing-function: ease-in;
 }
 
+.contact-form {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.contact-form .form-control {
+	border:none;
+	box-shadow:none;
+	border-radius:0;
+	border-bottom: 1px solid #cfd8dc;
+	transition: 1s ease;
+	font-weight: bold;
+}
+
+.contact-form .form-control:focus {
+	transition: 1s ease;
+	border-bottom: 1px solid #2abfcc;
+}

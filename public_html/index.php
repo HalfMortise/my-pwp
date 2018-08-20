@@ -12,6 +12,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 		<link href="./css/style.css" rel="stylesheet">
+		<script rel="script" src="./js/script.js"></script>
+
 
 	</head>
 	<body>
@@ -238,35 +240,49 @@
 
 
 
-			<div>
-				<form name="contact-form" id="contact-form" method="post" action="">
+			<div class="contact-form">
 
-					<ul>
-						<li>
-							<label for="contact-name">Name</label>
-							<input type="text" name="contact-name" id="contact-name" required>
-						</li>
-						<li>
-							<label for="contact-tel">Phone</label>
-							<input type="tel" name="contact-tel" id="contact-tel">
-						</li>
-						<li>
-							<label for="contact-message">Message</label>
-							<textarea name="contact-message" id="contact-message" rows="10" required></textarea>
-						</li>
-					</ul>
-					<p>
-						<a href="#"><button id="contact-submit" class="btn btn-secondary my-2" type="submit" name="contact=submit">Send Message</button></a>
-					</p>
+				<form method="post" role="form">
+					<div class="controls">
+						<div class="form-group">
+							<p>Full Name</p>
+							<input type="text" name="name" class="form-input-text form-control"  required="required">
+						</div>
+
+						<div class="form-group">
+							<p >Email</p>
+							<input type="email" name="email" class="form-input-text form-control"  required="required">
+						</div>
+
+						<div class="form-group">
+							<p>Phone</p>
+							<input type="tel" onkeydown="return checkPhoneKey(event.key)" name="phone" class="form-input-text form-control">
+						</div>
+
+						<div class="form-group">
+							<p>Company (optional)</p>
+							<input type="text" name="name" class="form-input-text form-control" >
+						</div>
+
+						<div class="form-group">
+							<p>Message</p>
+							<textarea name="message" class="form-input-text form-control" rows="6" required="required"></textarea>
+						</div>
+						<div>
+							<p>
+								<a href="#"><button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button></a>
+							</p>
+						</div>
+					</div>
 				</form>
-
-
-
-
-
-
-
 			</div>
+
+
+
+
+
+
+
 
 
 		</section>
