@@ -51,6 +51,7 @@ h1 {
 	margin: 0;
 	font-size: 8vw;
 	white-space: nowrap;
+	text-shadow: 1px 1px 0 #000;
 }
 
 .brightness {
