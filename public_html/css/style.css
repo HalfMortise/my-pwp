@@ -117,8 +117,8 @@ a:hover {
 	transition-timing-function: ease-in;
 }
 
-.flex-portfolio {
-	flex-grow: 1; /* default 0 */
+.portfolio-container {
+	display: flex; /*inline-flex display for portfolio section*/
 }
 
 .contact-form {
