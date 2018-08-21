@@ -54,7 +54,7 @@
 <!--/NAVBAR-->
 		<div class="title">
 			<h1>- WELCOME -</h1>
-			<p class="header-links"><a href="https://www.linkedin.com/in/joycorsi" target="_blank">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.facebook.com/halfmortise" target="_blank">Facebook</a></p>
+			<p class="header-links"><a href="https://www.linkedin.com/in/joycorsi" target="_blank">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.facebook.com/halfmortise" target="_blank">Facebook</a></p>
 		</div>
 	</header>
 
@@ -78,11 +78,12 @@
 				<div class="container-fluid">
 					<h2 class="jumbotron-heading">About Me</h2>
 					<p>
-						This is where <a href="https://www.github.com/halfmortise" target="_blank">About Me</a> will go.
+						This is where About Me will go.
 					</p>
+
 					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
-						<a href="#" class="btn btn-sm btn-outline-secondary">Go there</a>
+						<a href="#"><button type="submit" class="btn btn-sm btn-outline-secondary">Random Button</button></a>
 					</p>
 				</div>
 			</section>

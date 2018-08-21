@@ -23,6 +23,7 @@
 	padding: 10px;
 }
 
+
 header {
 	background:
 		linear-gradient(
@@ -85,7 +86,6 @@ a:link, a:visited, a:active {
 
 a:hover {
 	text-decoration: none; color: darkgoldenrod;
-
 }
 
 .container {
