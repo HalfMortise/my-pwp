@@ -87,6 +87,10 @@ a:link, a:visited, a:active {
 
 a:hover {
 	text-decoration: none; color: darkgoldenrod;
+	-webkit-transition: color 0.26s ease-out;
+	-moz-transition: color 0.26s ease-out;
+	-o-transition: color 0.26s ease-out;
+	transition: color 0.26s ease-out;
 }
 
 .container {
@@ -140,10 +144,10 @@ a:hover {
 	border-bottom: 1px solid #2abfcc;
 }
 
-.card-body {
-
-}
-
 .card-text {
 	text-align: center;
+}
+
+.portfolio-container .card-body {
+	flex-wrap: wrap;
 }

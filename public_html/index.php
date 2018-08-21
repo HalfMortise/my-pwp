@@ -174,7 +174,7 @@
 
 
 <!--PORTFOLIO Section-->
-		<section id="portfolio-content" class="portfolio-container font">
+		<section id="portfolio-content" class="portfolio-container font container-fluid">
 			<div class="card-body">
 				<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
 				<p class="card-text py-4">
