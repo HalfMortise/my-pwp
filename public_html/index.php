@@ -282,7 +282,7 @@
 
 
 <!--FOOTER Section-->
-		<section class="font-footer">
+		<section id="footer" class="font-footer">
 			<footer class="bg-dark text-light text-center py-4">
 				<div class="container">
 					<p>&copy;&nbsp;<a href="https://www.github.com/halfmortise">HalfMortise</a></p>
