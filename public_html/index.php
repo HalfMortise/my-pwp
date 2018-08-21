@@ -60,9 +60,10 @@
 
 
 <!--TO DO-->
-<!--Images needed: header bg (laptop/code/porch/coffee), resume icon, svcs icon, consulting icon, wireframe icon, gears icon -->
-<!--add padding between cards for responsive version, too close together (py)-->
-<!--padding needed between section titles and section content-->
+<!--PORTFOLIO: padding between cards-->
+
+
+
 
 
       <!--Main Body-->
