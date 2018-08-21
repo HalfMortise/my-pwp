@@ -54,7 +54,7 @@ h1 {
 	text-shadow: 1px 1px 0 #000;
 }
 
-.text-shadow {
+.header-links {
 	text-shadow: 1px 1px 0 #000;
 }
 
@@ -80,11 +80,11 @@ h1 {
 
 
 a:link, a:visited, a:active {
-	text-decoration: none; color: #020202;
+	text-decoration: none; color: floralwhite;
 }
 
 a:hover {
-	text-decoration: none; color: #18657a;
+	text-decoration: none; color: darkgoldenrod;
 
 }
 
