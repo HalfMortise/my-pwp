@@ -14,7 +14,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 		<link href="./css/style.css" rel="stylesheet">
 		<script rel="script" src="./js/script.js"></script>
-		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
 
 	</head>
 	<body>
@@ -66,7 +66,7 @@
 
 
 
-      <!--Main Body-->
+<!--Main Body-->
 
 
 <!--ABOUT ME Section-->
@@ -163,7 +163,7 @@
 
 <!--PORTFOLIO SECTION HEADER-->
 		<section id="portfolio" class="text-md-center font justify-content-center text-center">
-			<div class="row py-5 text-md-center">
+			<div class="row text-md-center">
 				<div class="col-md-12 justify-content-center">
 					<h4>
 					Portfolio
@@ -173,12 +173,27 @@
 		</section>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--PORTFOLIO Section-->
-		<section class="py-5 mx-4 font">
+<!--		<section class="py-5 font">
 			<div class="container-fluid justify-content-center text-center">
 				<div class="row">
 					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
+						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
 						<div class="card mb-4">
 							<div class="card-body">
 								<h5 class="card-title">Portfolio Item 1</h5>
@@ -187,7 +202,7 @@
 						</div>
 					</div>
 					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
+						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
 						<div class="card mb-4">
 							<div class="card-body">
 								<h5 class="card-title">Portfolio Item 2</h5>
@@ -196,7 +211,7 @@
 						</div>
 					</div>
 					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto mb-4" src="./images/placeholder.jpg" alt="">
+						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
 						<div class="card mb-4">
 							<div class="card-body">
 								<h5 class="card-title">Portfolio Item 3</h5>
@@ -206,7 +221,7 @@
 					</div>
 				</div>
 		</section>
-
+-->
 
 
 
