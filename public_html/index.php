@@ -54,7 +54,7 @@
 <!--/NAVBAR-->
 		<div class="title">
 			<h1>- WELCOME -</h1>
-			<p>Scroll for more!</p>
+			<p><a href="https://www.linkedin.com/in/joycorsi" target="_blank">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.facebook.com/halfmortise" target="_blank">Facebook</a></p>
 		</div>
 	</header>
 
