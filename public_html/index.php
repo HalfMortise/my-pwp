@@ -162,7 +162,7 @@
 
 
 <!--PORTFOLIO SECTION HEADER-->
-		<section id="portfolio" class="text-md-center font">
+		<section id="portfolio" class="text-md-center font py-4">
 			<div>
 				<h4>
 				Portfolio
@@ -176,21 +176,21 @@
 		<section id="portfolio-content" class="portfolio-container font">
 			<div class="card-body">
 				<img src="./images/placeholder.jpg" alt="" />
-				<p class="card-text text-center">
+				<p class="card-text text-center py-4">
 					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 				</p>
 			</div>
 
 			<div class="card-body">
 				<img src="./images/placeholder.jpg" alt="" />
-				<p class="card-text text-center">
+				<p class="card-text text-center py-4">
 					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 				</p>
 			</div>
 
 			<div class="card-body">
 				<img src="./images/placeholder.jpg" alt="" />
-				<p class="card-text text-center">
+				<p class="card-text text-center py-4">
 					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 				</p>
 			</div>
