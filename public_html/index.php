@@ -162,20 +162,18 @@
 
 
 <!--PORTFOLIO SECTION HEADER-->
-		<section id="portfolio" class="text-md-center font justify-content-center text-center">
-			<div class="row text-md-center">
-				<div class="col-md-12 justify-content-center">
-					<h4>
-					Portfolio
-					</h4>
-					<div class="col-md-12 justify-content-center">
-				</div>
+		<section id="portfolio" class="text-md-center font">
+			<div>
+				<h4>
+				Portfolio
+				</h4>
+			</div>
 		</section>
 
 
 
 <!--PORTFOLIO Section-->
-		<section id="portfolio-content" class="portfolio-container">
+		<section id="portfolio-content" class="portfolio-container font">
 			<div class="card-body">
 				<img src="./images/placeholder.jpg" alt="" />
 				<p class="card-text text-center">
