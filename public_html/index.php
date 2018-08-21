@@ -118,7 +118,7 @@
 
 						<div class="col-md-4 mb-2">
 							<div class="card-title mb-3 justify-content-center">
-								<img class="img-opacity" src="./images/desktop.svg" width="25px" alt="" />
+								<img class="icons" src="./images/desktop.svg" alt="" />
 								<p class="justify-content-center">UI/UX Design</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -127,7 +127,7 @@
 						</div>
 						<div class="col-md-4 mb-4">
 							<div class="card-title mb-4">
-								<img class="img-opacity" src="./images/cogs.svg" width="30px" alt="" />
+								<img class="icons" src="./images/cogs.svg" alt="" />
 								<p class="justify-content-center">Full-stack Web Development</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -136,7 +136,7 @@
 						</div>
 						<div class="col-md-4 mb-4">
 							<div class="card-title mb-4">
-								<img class="img-opacity" src="./images/users.svg" width="30px" alt="" />
+								<img class="icons" src="./images/users.svg" alt="" />
 								<p class="justify-content-center">Consulting</p>
 								<div class="card-body mb-4">
 									<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -173,17 +173,28 @@
 		</section>
 
 
-		<section id="portfolio-container">
-			<div>
 
+<!--PORTFOLIO Section-->
+		<section id="portfolio-content" class="portfolio-container">
+			<div class="card-body">
+				<img src="./images/placeholder.jpg" alt="" />
+				<p class="card-text text-center">
+					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+				</p>
 			</div>
 
-			<div>
-
+			<div class="card-body">
+				<img src="./images/placeholder.jpg" alt="" />
+				<p class="card-text text-center">
+					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+				</p>
 			</div>
 
-			<div>
-
+			<div class="card-body">
+				<img src="./images/placeholder.jpg" alt="" />
+				<p class="card-text text-center">
+					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+				</p>
 			</div>
 		</section>
 
