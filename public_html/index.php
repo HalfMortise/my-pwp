@@ -275,7 +275,7 @@
 
 			<div class="contact-form">
 
-				<form method="post" role="form">
+				<form method="post">
 					<div class="controls">
 						<div class="form-group">
 							<p>Full Name</p>
