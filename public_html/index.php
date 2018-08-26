@@ -210,52 +210,6 @@
 
 
 
-<!--PORTFOLIO Section-->
-<!--		<section class="py-5 font">
-			<div class="container-fluid justify-content-center text-center">
-				<div class="row">
-					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
-						<div class="card mb-4">
-							<div class="card-body">
-								<h5 class="card-title">Portfolio Item 1</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
-						<div class="card mb-4">
-							<div class="card-body">
-								<h5 class="card-title">Portfolio Item 2</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 shadow-box">
-						<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="">
-						<div class="card mb-4">
-							<div class="card-body">
-								<h5 class="card-title">Portfolio Item 3</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-		</section>
--->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--CONTACT Section-->
