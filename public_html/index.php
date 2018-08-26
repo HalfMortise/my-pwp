@@ -83,7 +83,7 @@
 
 					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
-						<a href="#"><button type="submit" class="btn btn-sm btn-outline-secondary">Random Button</button></a>
+						<button type="submit" class="btn btn-sm btn-outline-secondary">Random Button</button>
 					</p>
 				</div>
 			</section>
@@ -304,7 +304,7 @@
 
 						<div>
 							<p>
-								<a href="#"><button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button></a>
+								<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
 							</p>
 						</div>
 
