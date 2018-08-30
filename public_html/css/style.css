@@ -151,3 +151,8 @@ a:hover {
 .portfolio-container .card-body {
 	flex-wrap: wrap;
 }
+
+.contact-paragraph {
+	max-width: 60%;
+	display: inline-flex;
+}

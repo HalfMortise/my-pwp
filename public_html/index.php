@@ -231,6 +231,7 @@
 					<h4>
 						Contact
 					</h4>
+					<p class="contact-paragraph">If you've seen anything that interests you, or if you have any questions about any services provided, please feel free to get in touch by contacting me via the form below.</p>
 
 				</div>
 			</div>
