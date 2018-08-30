@@ -5,9 +5,12 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title>Welcome to My Page</title>
       <!--CSS Styling-->
-      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" >
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 		<script src="https://www.google.com/recaptcha/api.js"></script>
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
@@ -256,15 +259,17 @@
 							<textarea name="message" class="form-input-text form-control" rows="6" required="required"></textarea>
 						</div>
 
+						<div class="g-recaptcha" data-sitekey="https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/index.php">
+
+						</div>
+
 						<div>
 							<p>
 								<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
 							</p>
 						</div>
 
-						<div class="g-recaptcha" data-sitekey="https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/index.php">
 
-						</div>
 
 					</div>
 				</form>
