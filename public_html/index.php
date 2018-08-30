@@ -245,7 +245,7 @@
 
 
 						<div class="form-group">
-							<label for="contactName">Full Name<span class="text-danger"></span></label>
+							<label for="contactName">Name<span class="text-danger"></span></label>
 							<div class="input-group">
 								<div class="input-group-prepend">
 									<i class="fa fa-user" aria-hidden="true"></i>
@@ -290,7 +290,7 @@
 								<div class="input-group-prepend">
 									<i class="fa fa-user" aria-hidden="true"></i>
 								</div>
-								<textarea name="message" class="form-input-text form-control" rows="6" placeholder=""></textarea>
+								<textarea name="message" class="form-input-text form-control" rows="6" maxlength="2000" placeholder=""></textarea>
 							</div>
 						</div>
 
