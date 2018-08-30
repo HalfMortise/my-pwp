@@ -239,32 +239,62 @@
 
 			<div class="contact-form">
 
-				<form method="post">
+				<form id="pwp-contact-form" method="post">
 					<div class="controls">
+
+
+
 						<div class="form-group">
-							<p>Full Name</p>
-							<input type="text" name="name" class="form-input-text form-control"  required="required">
+							<label for="contactName">Full Name<span class="text-danger"></span></label>
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="text" name="name" class="form-input-text form-control" required="required" placeholder="">
+							</div>
 						</div>
 
 						<div class="form-group">
-							<p >Email</p>
-							<input type="email" name="email" class="form-input-text form-control"  required="required">
+							<label for="contactEmail">Email<span class="text-danger"></span></label>
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="email" name="email" class="form-input-text form-control" required="required" placeholder="">
+							</div>
 						</div>
 
 						<div class="form-group">
-							<p>Phone</p>
-							<input type="tel" onkeydown="return checkPhoneKey(event.key)" name="phone" class="form-input-text form-control">
+							<label for="contactPhone">Phone<span class="text-danger"></span></label>
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="tel" name="phone" class="form-input-text form-control" onkeydown="return checkPhoneKey(event.key)" placeholder="">
+							</div>
 						</div>
 
 						<div class="form-group">
-							<p>Company (optional)</p>
-							<input type="text" name="name" class="form-input-text form-control" >
+							<label for="contactCompany">Company (optional)<span class="text-danger"></span></label>
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<input type="text" name="company" class="form-input-text form-control" placeholder="">
+							</div>
 						</div>
 
 						<div class="form-group">
-							<p>Message</p>
-							<textarea name="message" class="form-input-text form-control" rows="6" required="required"></textarea>
+							<label for="contactMessage">Message<span class="text-danger"></span></label>
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<i class="fa fa-user" aria-hidden="true"></i>
+								</div>
+								<textarea name="message" class="form-input-text form-control" rows="6" placeholder=""></textarea>
+							</div>
 						</div>
+
+
 
 						<div>
 							<p>
