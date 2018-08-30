@@ -17,7 +17,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 		<link href="./css/style.css" rel="stylesheet">
 		<script rel="script" src="./js/script.js"></script>
-		<script src="https://www.google.com/recaptcha/api.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	</head>
 	<body>
