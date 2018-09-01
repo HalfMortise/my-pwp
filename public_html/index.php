@@ -334,11 +334,8 @@
 								<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
 							</p>
 						</div>
-
 						<div class="g-recaptcha" data-sitekey="https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/index.php">
-
 						</div>
-
 					</div>
 				</form>
 			</div>
@@ -355,7 +352,5 @@
 				</div>
 			</footer>
 		</section>
-
-
 	</body>
 </html>
