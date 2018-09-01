@@ -93,7 +93,7 @@
 
 					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
-						<button type="submit" class="btn btn-sm btn-outline-secondary">Random Button</button>
+						<button type="submit" class="btn btn-sm btn-outline-secondary">View Resume</button>
 					</p>
 				</div>
 			</section>
@@ -160,52 +160,80 @@
 
 			<!--/SERVICES SECTION-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+			<!--PORTFOLIO-->
+
+
+			<!--PORTFOLIO SECTION HEADER-->
+			<section id="portfolio" class="container-fluid text-md-center font">
+
+				<div class="font album py-2 bg-light">
+					<div class="container-fluid justify-content-center text-center">
+						<div class="row">
+							<div class="col-md-12 justify-content-center py-4">
+								<h4>Portfolio</h4>
+							</div>
+							<!--/PORTFOLIO SECTION HEADER-->
+
+
+							<div class="col-md-4 mb-2">
+								<div class="card-title mb-3 justify-content-center">
+									<img class="mg-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<p class="justify-content-center">Project 1</p>
+									<div class="card-body mb-4">
+										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 mb-4">
+								<div class="card-title mb-4">
+									<img class="mg-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<p class="justify-content-center">Project 2</p>
+									<div class="card-body mb-4">
+										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 mb-4">
+								<div class="card-title mb-4">
+									<img class="mg-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<p class="justify-content-center">Project 3</p>
+									<div class="card-body mb-4">
+										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!--/PORTFOLIO SECTION-->
+
+
+
+
+
+
+
+
+
+
+
+
 		</main>
 
-
-
-
-
-
-
-
-
-
-		<!--PORTFOLIO SECTION HEADER-->
-
-		<section id="portfolio" class="text-md-center font py-4">
-			<div class="container-fluid justify-content-center text-center">
-				<div class="col-md-12 justify-content-center py-4">
-					<h4>Portfolio</h4>
-				</div>
-			</div>
-		</section>
-
-
-
-		<!--PORTFOLIO Section-->
-		<section id="portfolio-content" class="portfolio-container font container-fluid">
-			<div class="card-body">
-				<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
-				<p class="card-text py-4">
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</p>
-			</div>
-
-			<div class="card-body">
-				<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
-				<p class="card-text py-4">
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</p>
-			</div>
-
-			<div class="card-body">
-				<img class="img-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
-				<p class="card-text py-4">
-					Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-				</p>
-			</div>
-		</section>
 
 
 
@@ -231,7 +259,9 @@
 					<h4>
 						Contact
 					</h4>
-					<p class="contact-paragraph">If you've seen anything that interests you, or if you have any questions about any services provided, please feel free to get in touch by contacting me via the form below.</p>
+					<p class="contact-paragraph">If you would to learn more about my services or engage in discussion about your business needs, please feel free to get in touch by contacting me via the form below.</p>
+					<br />
+					<p class="contact-paragraph">I look forward to hearing from you!</p>
 
 				</div>
 			</div>
