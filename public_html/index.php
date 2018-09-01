@@ -259,7 +259,7 @@
 					<h4>
 						Contact
 					</h4>
-					<p class="contact-paragraph">If you would to learn more about my services or engage in discussion about your business needs, please feel free to get in touch by contacting me via the form below.</p>
+					<p class="contact-paragraph">If you like would to learn more about my services or engage in discussion about your business needs, please feel free to get in touch by contacting me via the form below.</p>
 					<br />
 					<p class="contact-paragraph">I look forward to hearing from you!</p>
 
