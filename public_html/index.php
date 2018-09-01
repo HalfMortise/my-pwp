@@ -44,7 +44,8 @@
 					<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 						<ul class="navbar-nav ml-auto mt-2 mt-lg-0">
 							<li class="nav-item active">
-								<a class="nav-link" href="https://www.halfmortise.com/" target="_blank">Home</a>
+<!--TO DO: populate the href-->
+								<a class="nav-link" href="#" target="_blank">Home</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="#about">About</a>
