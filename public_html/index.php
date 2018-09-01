@@ -95,7 +95,7 @@
 
 					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
-						<button type="submit" class="btn btn-sm btn-outline-secondary">View Resume</button>
+						<a href="https://bootcamp-coders.cnm.edu/~ecorsi/pro-dev/resumes/Joy%20Corsi%20Resume.pdf" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">View Resume</a>
 					</p>
 				</div>
 			</section>
