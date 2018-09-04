@@ -255,7 +255,7 @@
 		<!--CONTACT Section-->
 
 		<!--CONTACT SECTION HEADER-->
-		<section id="contact" class="container-fluid font justify-content-center text-center">
+		<section id="contact" class="container-fluid font justify-content-center text-center mb-3">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12">
 					<h4>
@@ -272,7 +272,7 @@
 			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
 
 
-			<div class="contact-form">
+			<div class="contact-form mb-4">
 
 				<form id="pwp-contact-form" method="post" action="mailer.php">
 					<div class="controls">
@@ -329,15 +329,23 @@
 							</div>
 						</div>
 
-						//Google reCAPTCHA tool
-						<div class="g-recaptcha" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
+						<!-- Google reCAPTCHA tool -->
+						<div class="g-recaptcha mb-4 mt-4" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
 						<div>
-							<p>
-								<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
-							</p>
+							<button type="reset" class="btn btn-sm btn-outline-secondary">Reset</button>
+							<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
 						</div>
 					</div>
 				</form>
+
+				<!--empty area for form error/success output-->
+				<div class="row">
+					<div class="col-xs-12">
+						<div id="error-output-area"></div>
+					</div>
+				</div>
+				<!--end empty area for form error/success output-->
+
 			</div>
 		</section>
 
@@ -345,7 +353,7 @@
 
 
 		<!--FOOTER Section-->
-		<section id="footer" class="font-footer">
+		<section id="footer" class="font-footer mt-5">
 			<footer class="bg-dark text-light text-center py-4">
 				<div class="container">
 					<p>&copy;&nbsp;<a href="https://www.github.com/halfmortise">HalfMortise</a></p>
