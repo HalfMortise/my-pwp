@@ -269,6 +269,8 @@
 			</div>
 
 			<!-- CONTACT -->
+			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
+
 
 			<div class="contact-form">
 
