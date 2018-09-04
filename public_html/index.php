@@ -274,7 +274,7 @@
 
 			<div class="contact-form">
 
-				<form id="pwp-contact-form" method="post">
+				<form id="pwp-contact-form" method="post" action="email.php">
 					<div class="controls">
 
 
@@ -330,13 +330,11 @@
 						</div>
 
 
-
+						<div class="g-recaptcha" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
 						<div>
 							<p>
 								<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
 							</p>
-						</div>
-						<div class="g-recaptcha" data-sitekey="https://bootcamp-coders.cnm.edu/~ecorsi/my-pwp-joy/public_html/index.php">
 						</div>
 					</div>
 				</form>

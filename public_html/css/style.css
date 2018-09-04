@@ -156,3 +156,9 @@ a:hover {
 	max-width: 60%;
 	display: inline-flex;
 }
+
+.g-recaptcha {
+	display: inline-flex;
+	align-items: center;
+
+}
