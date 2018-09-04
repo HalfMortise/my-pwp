@@ -329,7 +329,7 @@
 							</div>
 						</div>
 
-
+						//Google reCAPTCHA tool
 						<div class="g-recaptcha" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
 						<div>
 							<p>
