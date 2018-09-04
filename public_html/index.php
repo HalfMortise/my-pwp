@@ -180,7 +180,7 @@
 			<!--PORTFOLIO SECTION HEADER-->
 			<section id="portfolio" class="container-fluid text-md-center font">
 
-				<div class="font album py-2 bg-light">
+				<div class="font album py-2 bg-none">
 					<div class="container-fluid justify-content-center text-center">
 						<div class="row">
 							<div class="col-md-12 justify-content-center py-4">
@@ -222,16 +222,6 @@
 			</section>
 
 			<!--/PORTFOLIO SECTION-->
-
-
-
-
-
-
-
-
-
-
 
 
 		</main>
