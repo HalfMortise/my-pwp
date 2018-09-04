@@ -274,7 +274,7 @@
 
 			<div class="contact-form">
 
-				<form id="pwp-contact-form" method="post" action="email.php">
+				<form id="pwp-contact-form" method="post" action="mailer.php">
 					<div class="controls">
 
 
@@ -325,7 +325,7 @@
 								<div class="input-group-prepend">
 									<i class="fa fa-user" aria-hidden="true"></i>
 								</div>
-								<textarea name="message" class="form-input-text form-control" rows="6" maxlength="2000" placeholder=""></textarea>
+								<textarea name="message" class="form-input-text form-control" rows="6" maxlength="2000" required="required" placeholder=""></textarea>
 							</div>
 						</div>
 
