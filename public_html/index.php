@@ -24,6 +24,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 
 		<!--Custom JS-->
+		<script rel="script" src="./js/form-validate.js"></script>
 		<script rel="script" src="./js/script.js"></script>
 
 	</head>
@@ -332,9 +333,6 @@
 
 
 
-
-
-
 				<!--empty area for form error/success output-->
 				<div class="row">
 					<div class="col-xs-12">
@@ -342,6 +340,11 @@
 					</div>
 				</div>
 				<!--end empty area for form error/success output-->
+
+
+
+
+
 
 			</div>
 		</section>
