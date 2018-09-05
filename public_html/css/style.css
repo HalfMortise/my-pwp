@@ -157,8 +157,18 @@ a:hover {
 	display: inline-flex;
 }
 
-.g-recaptcha {
+.recaptcha {
 	display: inline-flex;
+	align-content: center;
 	align-items: center;
+	justify-content: center;
+	justify-items: center;
+	margin: auto;
+}
 
+.g-recaptcha {
+	display: inline;
+	align-items: center;
+	transform: scale(0.77);
+	transform-origin: 50% 50%;
 }
