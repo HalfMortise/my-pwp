@@ -21,7 +21,7 @@ $resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["REMOTE_ADDR
 try {
    // if there's a reCAPTCHA error, throw an exception
    if (!$resp->isSuccess()) {
-      throw(new Exception("reCAPTCHA error"));
+      throw(new Exception("Please execute reCAPTCHA validation"));
    }
 
    /**
@@ -103,7 +103,7 @@ try {
 
    // reports a successful send
 
-   echo "<div class=\"alert alert-success\" role=\"alert\">Email sent.</div>";
+   echo "<div class=\"alert alert-success\" role=\"alert\">Thank you for your email!</div>";
 
    // reports email failure to send
 } catch(Exception $exception) {
