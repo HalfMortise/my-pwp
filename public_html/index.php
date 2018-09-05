@@ -36,7 +36,7 @@
 			<div>
 				<nav class="navbar navbar-expand-lg navbar-light bg-light font">
 <!--TO DO: populate the href-->
-					<a class="navbar-brand" href="#">HalfMortise</a>
+					<a class="navbar-brand" href="#">Strategic Development</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
@@ -264,7 +264,7 @@
 
 			<div class="contact-form mb-4">
 
-				<form id="pwp-contact-form" method="post" action="mailer.php">
+				<form id="pwp-contact-form" method="post" action="php/mailer.php">
 					<div class="controls">
 
 
