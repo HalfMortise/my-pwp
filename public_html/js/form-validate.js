@@ -65,10 +65,10 @@ $(document).ready(function(){
 
 				success: function(ajaxOutput) {
 					// clear the output area's formatting
-					$("#error-output-area").css("display", "");
+					$("#output-area").css("display", "");
 
 					// write the server's reply to the output area
-					$("#error-output-area").html(ajaxOutput);
+					$("#output-area").html(ajaxOutput);
 
 					// reset the form if it was successful
 					if($(".alert-success").length >= 1) {

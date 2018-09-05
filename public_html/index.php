@@ -332,7 +332,7 @@
 				<!--empty area for form error/success output-->
 				<div class="row">
 					<div class="col-xs-12">
-						<div id="error-output-area"></div>
+						<div id="output-area"></div>
 					</div>
 				</div>
 				<!--end empty area for form error/success output-->
