@@ -48,7 +48,7 @@ $(document).ready(function(){
 				required: "Name required"
 			},
 			contactEmail: {
-				email: "Email address required",
+				email: "Please enter a valid email address",
 				required: "Email address required"
 			},
 			contactMessage: {

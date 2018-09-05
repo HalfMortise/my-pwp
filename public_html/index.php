@@ -329,6 +329,12 @@
 					</div>
 				</form>
 
+
+
+
+
+
+
 				<!--empty area for form error/success output-->
 				<div class="row">
 					<div class="col-xs-12">
@@ -339,6 +345,26 @@
 
 			</div>
 		</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 		<!--FOOTER Section-->
