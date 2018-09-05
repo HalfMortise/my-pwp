@@ -245,7 +245,7 @@
 		<!--CONTACT Section-->
 
 		<!--CONTACT SECTION HEADER-->
-		<section id="contact" class="container-fluid font justify-content-center text-center mb-3">
+		<section id="contact" class="container-fluid font justify-content-center align-items-center text-center mb-3">
 			<div class="row py-5 text-md-center">
 				<div class="col-md-12">
 					<h4>
@@ -262,7 +262,7 @@
 			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
 
 
-			<div class="contact-form mb-4">
+			<div class="contact-form container-fluid mb-4">
 
 				<form id="pwp-contact-form" method="post" action="php/mailer.php">
 					<div class="controls">
@@ -320,10 +320,11 @@
 						</div>
 
 						<!-- Google reCAPTCHA tool -->
-						<div class="g-recaptcha mb-4 mt-4" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
+						<div class="g-recaptcha" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
+
 						<div>
-							<button type="reset" class="btn btn-sm btn-outline-secondary">Reset</button>
-							<button type="submit" class="btn btn-sm btn-outline-secondary">Send Message</button>
+							<button type="reset" class="btn btn-sm btn-outline-secondary mb-2">Reset</button>
+							<button type="submit" class="btn btn-sm btn-outline-secondary mb-2">Send Message</button>
 						</div>
 					</div>
 				</form>
@@ -338,8 +339,6 @@
 
 			</div>
 		</section>
-
-
 
 
 		<!--FOOTER Section-->
