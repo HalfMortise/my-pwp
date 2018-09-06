@@ -72,27 +72,20 @@
 			</div>
 		</header>
 
-
-
 		<!--Main Body-->
-
 
 		<!--ABOUT ME Section-->
 		<main class="mt-3">
-
-
 			<section id="about" class="font text-center py-5">
-
 				<div class="container-fluid">
 					<h2 class="jumbotron-heading">About Me</h2>
 					<p class="card-text text-center">From the time I first took my first HTML course in 1999, to today as a full-stack developer, I have always been a bit of a software nerd. I love solving problems, which translates easily to working with software development as well as new venture development. I have put together this page in order to market my services to small businesses everywhere which may need communication services relevant to the development of websites, content management, online profiles, merchant accounts (online stores), etc.</p>
-					<p>
-						<a href="https://bootcamp-coders.cnm.edu/~ecorsi/pro-dev/resumes/Joy%20Corsi%20Resume.pdf" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">View Resume</a>
-					</p>
+<!--					<p>-->
+<!--						<a href="https://bootcamp-coders.cnm.edu/~ecorsi/pro-dev/resumes/Joy%20Corsi%20Resume.pdf" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">View Resume</a>-->
+<!--					</p>-->
 				</div>
 			</section>
 			<!--END ABOUT ME-->
-
 			<!--SERVICES-->
 			<!--SERVICES SECTION HEADER-->
 			<section id="services" class="jumbotron container-fluid text-md-center font">
@@ -135,13 +128,11 @@
 					</div>
 				</div>
 			</section>
-
 			<!--/SERVICES SECTION-->
 
 			<!--PORTFOLIO-->
 			<!--PORTFOLIO SECTION HEADER-->
 			<section id="portfolio" class="container-fluid text-md-center font">
-
 				<div class="font album py-2 bg-none">
 					<div class="container-fluid justify-content-center text-center">
 						<div class="row">
@@ -149,7 +140,6 @@
 								<h4>Portfolio</h4>
 							</div>
 							<!--/PORTFOLIO SECTION HEADER-->
-
 
 							<div class="col-md-4 mb-2">
 								<div class="card-title mb-3 justify-content-center">
@@ -185,9 +175,7 @@
 					</div>
 				</div>
 			</section>
-
 			<!--/PORTFOLIO SECTION-->
-
 		</main>
 
 		<!--CONTACT Section-->
@@ -201,13 +189,11 @@
 					<p class="contact-paragraph">If you like would to learn more about my services or engage in discussion about your business needs, please don't hesitate to get in touch by contacting me via the form below.</p>
 					<br />
 					<p class="contact-paragraph">I look forward to hearing from you!</p>
-
 				</div>
 			</div>
 
 			<!-- CONTACT -->
 			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
-
 			<div class="contact-form container-fluid mb-4">
 				<form id="pwp-contact-form" method="post" action="php/mailer.php">
 					<div class="controls">
