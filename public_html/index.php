@@ -65,6 +65,7 @@
 				</nav>
 			</div>
 			<!--/NAVBAR-->
+
 			<div class="title">
 				<h1>- WELCOME -</h1>
 				<p class="header-links"><a href="https://www.linkedin.com/in/joycorsi" target="_blank">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a></p>
@@ -84,7 +85,7 @@
 
 				<div class="container-fluid">
 					<h2 class="jumbotron-heading">About Me</h2>
-					<p class="card-text text-center"></p>
+					<p class="card-text text-center">From the time I first took my first HTML course in 1999, to today as a full-stack developer, I have always been a bit of a software nerd. I love solving problems, which translates easily to working with software development as well as new venture development. I have put together this page in order to market my services to small businesses everywhere which may need communication services relevant to the development of websites, content management, online profiles, merchant accounts (online stores), etc.</p>
 					<p>
 						<a href="https://bootcamp-coders.cnm.edu/~ecorsi/pro-dev/resumes/Joy%20Corsi%20Resume.pdf" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">View Resume</a>
 					</p>
