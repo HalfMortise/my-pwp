@@ -108,7 +108,7 @@
 									<img class="icons" src="./images/desktop.svg" alt="" />
 									<p class="justify-content-center">UI/UX Design</p>
 									<div class="card-body mb-4">
-										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+										<p class="card-text text-center">As an entrepreneur myself, I have a passion for facilitating the development of other new ventures and small businesses. Marketing your brand via a website is a big part of communicating with your target market, and I am uniquely qualified to assist you with that. I can educate and advise on the available tools currently on the market, and also guide you in through the design phase until you achieve a plan you're ready to move forward with.</p>
 									</div>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 									<img class="icons" src="./images/cogs.svg" alt="" />
 									<p class="justify-content-center">Full-stack Web Development</p>
 									<div class="card-body mb-4">
-										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+										<p class="card-text text-center">Whether you're a writer and blogger, a merchant with products, or someone like myself marketing services, after reaching a design that you're happy with, I can also take on the development phase with you. Understanding the need for a system that's simple and easy to use, as well as a seamless front-end that will keep your users coming back, I will always commit to hearing a client's needs and working towards that vision.</p>
 									</div>
 								</div>
 							</div>
@@ -126,7 +126,7 @@
 									<img class="icons" src="./images/users.svg" alt="" />
 									<p class="justify-content-center">Consulting</p>
 									<div class="card-body mb-4">
-										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+										<p class="card-text text-center">Understanding that sometimes a client will simply need advice or to consult on an idea or vision, I make myself available for consulting services as well. If you need ideas for a website re-design, if there is a particular problem that you're having difficulty solving, or if you simply need to discuss strategy with a developer, my goal is to see you and/or your business set up for success in whatever way is helpful to you.</p>
 									</div>
 								</div>
 							</div>
@@ -152,19 +152,21 @@
 
 							<div class="col-md-4 mb-2">
 								<div class="card-title mb-3 justify-content-center">
-									<img class="portfolio-img mg-fluid d-block mx-auto" src="./images/bootstrap.jpg" alt="" />
+									<a href="https://bootcamp-coders.cnm.edu/~ecorsi/bootstrap4-challenge/landing-page.html" target="_blank"><img class="portfolio-img mg-fluid d-block mx-auto img-hover" src="./images/bootstrap.jpg" alt="" /></a>
 									<p class="justify-content-center">Bootstrap 4 Draft</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">Not only websites are under development - so are my skills! Here is a project in which I utilized Bootstrap 4 as the primary framework for structure and styling. In only two days, I was able to create this rough draft of a page with a solid structure and basic styling. I've really grown to enjoy working with Bootstrap 4!</p>
+										<br /><small class="text-muted"><a href="https://github.com/HalfMortise/bootstrap4-challenge" target="_blank">See the Code</a></small>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-4 mb-4">
 								<div class="card-title mb-4">
-									<img class="portfolio-img d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<a href="#" target="_blank"><img class="portfolio-img d-block mx-auto" src="./images/sign-in-modal.jpg" alt="" /></a>
 									<p class="justify-content-center">NM Outdoors</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">I collaborated on a team with three others to build this web application for the outdoor enthusiasts of New Mexico. With a complex back-end so that we could bring in all the data possible, and with an Angular build for the front-end, we completed this masterpiece in only 8 weeks! Be sure to visit NM Outdoors next time you're looking for a campground!</p>
+										<small class="text-muted"><a href="https://github.com/HalfMortise/nm-outdoors" target="_blank">See the Code</a></small>
 									</div>
 								</div>
 							</div>
@@ -174,6 +176,7 @@
 									<p class="justify-content-center">Business-Card Profile</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">Catch a sneak peek at a project under development! Like halfmortise.com, this project will be a business card-type static profile page for an individual to utilize as either an alternative or a supplement to LinkedIn.com. This will be easily customized to fit an individual's preferences, and will offer visitors a contact form, resume, and portfolio.</p>
+										<small class="text-muted"><a href="https://github.com/HalfMortise/business-card-webpage" target="_blank">See the Code</a></small>
 									</div>
 								</div>
 							</div>
@@ -194,7 +197,7 @@
 					<h4>
 						Contact
 					</h4>
-					<p class="contact-paragraph">If you like would to learn more about my services or engage in discussion about your business needs, please feel free to get in touch by contacting me via the form below.</p>
+					<p class="contact-paragraph">If you like would to learn more about my services or engage in discussion about your business needs, please don't hesitate to get in touch by contacting me via the form below.</p>
 					<br />
 					<p class="contact-paragraph">I look forward to hearing from you!</p>
 
@@ -282,7 +285,7 @@
 		<section id="footer" class="font-footer mt-5">
 			<footer class="bg-dark text-light text-center py-4">
 				<div class="container">
-					<p>&copy;&nbsp;<a href="https://www.github.com/halfmortise">HalfMortise</a></p>
+					<p>&copy;&nbsp;<a href="https://www.github.com/halfmortise">Half Mortise</a></p>
 				</div>
 			</footer>
 		</section>
