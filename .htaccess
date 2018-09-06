@@ -6,4 +6,4 @@ RewriteRule (.*) /public_html/$1 [L]
 
 # this forces SSL connection
 RewriteCond %{HTTPS} !=on
-RewriteRule (.*) https://halfmortise.com/$1 [L]
+RewriteRule (.*) https://www.halfmortise.com/$1 [L]
