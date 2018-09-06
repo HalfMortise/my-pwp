@@ -37,7 +37,7 @@
 			<div>
 				<nav class="navbar navbar-expand-lg navbar-light bg-light font">
 <!--TO DO: populate the href-->
-					<a class="navbar-brand" href="#">Strategic Development</a>
+					<img src="images/hm-favicon.gif" width="30px" alt="half mortise lock"><a class="navbar-brand" href="#">Half Mortise</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
@@ -87,7 +87,6 @@
 					<p>
 						This is where About Me will go.
 					</p>
-
 					<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 					<p>
 						<a href="https://bootcamp-coders.cnm.edu/~ecorsi/pro-dev/resumes/Joy%20Corsi%20Resume.pdf" target="_blank" class="btn btn-sm btn-outline-secondary" role="button" aria-pressed="true">View Resume</a>
@@ -96,24 +95,9 @@
 			</section>
 			<!--END ABOUT ME-->
 
-
-
-
-
-
-
-
-
-
-
-
-
 			<!--SERVICES-->
-
-
 			<!--SERVICES SECTION HEADER-->
 			<section id="services" class="jumbotron container-fluid text-md-center font">
-
 				<div class="font shadow-box album py-2 bg-light">
 					<div class="container-fluid justify-content-center text-center">
 						<div class="row">
@@ -121,7 +105,6 @@
 								<h4>Services</h4>
 							</div>
 							<!--/SERVICES SECTION HEADER-->
-
 
 							<div class="col-md-4 mb-2">
 								<div class="card-title mb-3 justify-content-center">
@@ -157,21 +140,7 @@
 
 			<!--/SERVICES SECTION-->
 
-
-
-
-
-
-
-
-
-
-
-
-
 			<!--PORTFOLIO-->
-
-
 			<!--PORTFOLIO SECTION HEADER-->
 			<section id="portfolio" class="container-fluid text-md-center font">
 
@@ -218,27 +187,9 @@
 
 			<!--/PORTFOLIO SECTION-->
 
-
 		</main>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		<!--CONTACT Section-->
-
 		<!--CONTACT SECTION HEADER-->
 		<section id="contact" class="container-fluid font justify-content-center align-items-center text-center mb-3">
 			<div class="row py-5 text-md-center">
@@ -256,14 +207,9 @@
 			<!-- CONTACT -->
 			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
 
-
 			<div class="contact-form container-fluid mb-4">
-
 				<form id="pwp-contact-form" method="post" action="php/mailer.php">
 					<div class="controls">
-
-
-
 						<div class="form-group">
 							<label for="contactName">Name<span class="text-danger"></span></label>
 							<div class="input-group">
@@ -324,9 +270,6 @@
 					</div>
 				</form>
 
-
-
-
 				<!--empty area for form error/success output-->
 				<div class="row">
 					<div class="col-xs-12">
@@ -335,34 +278,8 @@
 				</div>
 				<!--end empty area for form error/success output-->
 
-
-
-
-
-
 			</div>
 		</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 		<!--FOOTER Section-->
 		<section id="footer" class="font-footer mt-5">
