@@ -152,8 +152,12 @@ a:hover {
 	flex-wrap: wrap;
 }
 
+.portfolio-img {
+	width: 75px;
+}
+
 .contact-paragraph {
-	max-width: 60%;
+	max-width: 50%;
 	display: inline-flex;
 }
 
