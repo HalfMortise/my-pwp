@@ -152,7 +152,7 @@
 
 							<div class="col-md-4 mb-2">
 								<div class="card-title mb-3 justify-content-center">
-									<img class="mg-fluid d-block mx-auto" src="./images/bootstrap.jpg" alt="" />
+									<img class="portfolio-img mg-fluid d-block mx-auto" src="./images/bootstrap.jpg" alt="" />
 									<p class="justify-content-center">Bootstrap 4 Draft</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">Not only websites are under development - so are my skills! Here is a project in which I utilized Bootstrap 4 as the primary framework for structure and styling. In only two days, I was able to create this rough draft of a page with a solid structure and basic styling. I've really grown to enjoy working with Bootstrap 4!</p>
@@ -161,7 +161,7 @@
 							</div>
 							<div class="col-md-4 mb-4">
 								<div class="card-title mb-4">
-									<img class="mg-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<img class="portfolio-img d-block mx-auto" src="./images/placeholder.jpg" alt="" />
 									<p class="justify-content-center">Project 2</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -170,7 +170,7 @@
 							</div>
 							<div class="col-md-4 mb-4">
 								<div class="card-title mb-4">
-									<img class="mg-fluid d-block mx-auto" src="./images/placeholder.jpg" alt="" />
+									<img class="portfolio-img d-block mx-auto" src="./images/placeholder.jpg" alt="" />
 									<p class="justify-content-center">Business-Card Profile</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">Catch a sneak peek at a project under development! Like halfmortise.com, this project will be a business card-type static profile page for an individual to utilize as either an alternative or a supplement to LinkedIn.com. This will be easily customized to fit an individual's preferences, and will offer visitors a contact form, resume, and portfolio.</p>
