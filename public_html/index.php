@@ -86,6 +86,7 @@
 				</div>
 			</section>
 			<!--END ABOUT ME-->
+
 			<!--SERVICES-->
 			<!--SERVICES SECTION HEADER-->
 			<section id="services" class="jumbotron container-fluid text-md-center font">

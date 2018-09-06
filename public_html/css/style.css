@@ -170,7 +170,7 @@ a:hover {
 }
 
 .g-recaptcha {
-	display: inline;
+	display: inline-flex;
 	align-items: center;
 	transform: scale(0.77);
 	transform-origin: 50% 50%;
