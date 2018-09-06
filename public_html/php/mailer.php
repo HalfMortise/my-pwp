@@ -8,7 +8,7 @@
  * @author HalfMortise <halfmortise@protonmail.com>
  **/
 
-require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
+require_once(dirname(__DIR__, 1) . "/vendor/autoload.php");
 
 // require mail-config.php
 require_once("mail-config.php");
@@ -57,7 +57,7 @@ try {
 
    // attach the subject line to the message
 
-   $swiftMessage->setSubject($company);
+   $swiftMessage->setSubject($name);
 
 
    /**
