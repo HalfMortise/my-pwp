@@ -162,9 +162,9 @@
 							<div class="col-md-4 mb-4">
 								<div class="card-title mb-4">
 									<img class="portfolio-img d-block mx-auto" src="./images/placeholder.jpg" alt="" />
-									<p class="justify-content-center">Project 2</p>
+									<p class="justify-content-center">NM Outdoors</p>
 									<div class="card-body mb-4">
-										<p class="card-text text-center">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
+										<p class="card-text text-center">I collaborated on a team with three others to build this web application for the outdoor enthusiasts of New Mexico. With a complex back-end so that we could bring in all the data possible, and with an Angular build for the front-end, we completed this masterpiece in only 8 weeks! Be sure to visit NM Outdoors next time you're looking for a campground!</p>
 									</div>
 								</div>
 							</div>
