@@ -67,7 +67,7 @@
 			<!--/NAVBAR-->
 			<div class="title">
 				<h1>- WELCOME -</h1>
-				<p class="header-links"><a href="https://www.linkedin.com/in/joycorsi" target="_blank">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.facebook.com/halfmortise" target="_blank">Facebook</a></p>
+				<p class="header-links"><a href="https://www.linkedin.com/in/joycorsi" target="_blank">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.github.com/halfmortise" target="_blank">Github</a></p>
 			</div>
 		</header>
 
