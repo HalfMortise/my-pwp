@@ -72,12 +72,6 @@
 		</header>
 
 
-		<!--TO DO-->
-		<!--PORTFOLIO: padding between cards-->
-
-
-
-
 
 		<!--Main Body-->
 
