@@ -13,18 +13,25 @@
 		<!--Custom stylesheet-->
 		<link href="./css/style.css" rel="stylesheet">
 
-		<!-- jQuery, Popper.js, Bootstrap JS -->
+		<!-- JQuery first, then Popper.js, then Bootstrap.js -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
 		<!-- Google reCAPTCHA -->
 		<script src="https://www.google.com/recaptcha/api.js"></script>
+
+		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 
 		<!--Custom JS-->
-		<script rel="script" src="./js/form-validate.js"></script>
 		<script rel="script" src="./js/script.js"></script>
 
 	</head>
@@ -196,14 +203,11 @@
 			<!-- CONTACT -->
 			<!--PHP-driven custom contact form using Swiftmailer, jQuery Validate, and Google reCAPTCHA-->
 			<div class="contact-form container-fluid mb-4">
-				<form id="pwp-contact-form" method="post" action="php/mailer.php">
+				<form id="contact-form" method="post" action="php/mailer.php">
 					<div class="controls">
 						<div class="form-group">
 							<label for="contactName">Name<span class="text-danger"></span></label>
 							<div class="input-group">
-								<div class="input-group-prepend">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
 								<input type="text" name="name" class="form-input-text form-control" required="required" placeholder="">
 							</div>
 						</div>
@@ -211,9 +215,6 @@
 						<div class="form-group">
 							<label for="contactEmail">Email<span class="text-danger"></span></label>
 							<div class="input-group">
-								<div class="input-group-prepend">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
 								<input type="email" name="email" class="form-input-text form-control" required="required" placeholder="">
 							</div>
 						</div>
@@ -221,9 +222,6 @@
 						<div class="form-group">
 							<label for="contactPhone">Phone<span class="text-danger"></span></label>
 							<div class="input-group">
-								<div class="input-group-prepend">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
 								<input type="tel" name="phone" class="form-input-text form-control" onkeydown="return checkPhoneKey(event.key)" placeholder="">
 							</div>
 						</div>
@@ -231,9 +229,6 @@
 						<div class="form-group">
 							<label for="contactCompany">Company (optional)<span class="text-danger"></span></label>
 							<div class="input-group">
-								<div class="input-group-prepend">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
 								<input type="text" name="company" class="form-input-text form-control" placeholder="">
 							</div>
 						</div>
@@ -241,9 +236,6 @@
 						<div class="form-group">
 							<label for="contactMessage">Message<span class="text-danger"></span></label>
 							<div class="input-group">
-								<div class="input-group-prepend">
-									<i class="fa fa-user" aria-hidden="true"></i>
-								</div>
 								<textarea name="message" class="form-input-text form-control" rows="6" maxlength="2000" required="required" placeholder=""></textarea>
 							</div>
 						</div>

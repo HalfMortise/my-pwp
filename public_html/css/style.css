@@ -125,6 +125,7 @@ a:hover {
 	display: flex; /*inline-flex display for portfolio section*/
 }
 
+/*****contact form styling*****/
 .contact-form {
 	width: 50%;
 	margin: 0 auto;
@@ -143,6 +144,23 @@ a:hover {
 	border-bottom: 1px solid #2abfcc;
 }
 
+.recaptcha {
+	display: inline-flex;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+	margin: auto;
+}
+
+.g-recaptcha {
+	display: inline-flex;
+	align-items: center;
+	transform: scale(0.77);
+	transform-origin: 50% 50%;
+}
+/*****end contact form styling*****/
+
 .card-text {
 	text-align: center;
 }
@@ -158,20 +176,4 @@ a:hover {
 .contact-paragraph {
 	max-width: 50%;
 	display: inline-flex;
-}
-
-.recaptcha {
-	display: inline-flex;
-	align-content: center;
-	align-items: center;
-	justify-content: center;
-	justify-items: center;
-	margin: auto;
-}
-
-.g-recaptcha {
-	display: inline-flex;
-	align-items: center;
-	transform: scale(0.77);
-	transform-origin: 50% 50%;
 }
