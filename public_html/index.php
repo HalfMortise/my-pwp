@@ -240,6 +240,16 @@
 							</div>
 						</div>
 
+
+						<!--empty area for form error/success output-->
+						<div class="output-area row container-fluid justify-content-center">
+							<div class="col-xs-12">
+								<div id="output-area"></div>
+							</div>
+						</div>
+						<!--end empty area for form error/success output-->
+
+
 						<!-- Google reCAPTCHA tool -->
 						<div class="g-recaptcha" data-sitekey="6LcMZG0UAAAAAMXOA5mMqUKC0N_L4YWgeHCMolhU"></div>
 
@@ -249,15 +259,6 @@
 						</div>
 					</div>
 				</form>
-
-				<!--empty area for form error/success output-->
-				<div class="row">
-					<div class="col-xs-12">
-						<div id="output-area"></div>
-					</div>
-				</div>
-				<!--end empty area for form error/success output-->
-
 			</div>
 		</section>
 

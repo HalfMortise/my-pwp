@@ -71,7 +71,7 @@ try {
    }
 
    /**report a successful send**/
-   echo "<div class=\"alert alert-success\" role=\"alert\">Thank you for your email!</div>";
+   echo "<div class=\"alert alert-light\" role=\"alert\">Thank you for your email!</div>";
 } catch(Exception $exception) {
-   echo "<div class=\"alert alert-danger\" role=\"alert\">Unable to send email. Please check the form for all required fields." . $exception->getMessage() . "</div>";
+   echo "<div class=\"alert alert-dark\" role=\"alert\">Unable to send email. Please check the form for all required fields." . $exception->getMessage() . "</div>";
 }

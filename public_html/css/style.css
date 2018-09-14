@@ -144,6 +144,12 @@ a:hover {
 	border-bottom: 1px solid #2abfcc;
 }
 
+.output-area {
+	align-content: center;
+	text-align: center;
+	align-items: center;
+}
+
 .recaptcha {
 	display: inline-flex;
 	align-content: center;
