@@ -208,35 +208,35 @@
 						<div class="form-group">
 							<label for="contactName">Name<span class="text-danger"></span></label>
 							<div class="input-group">
-								<input type="text" name="name" class="form-input-text form-control" required="required" placeholder="">
+								<input type="text" name="contactName" class="form-input-text form-control" required="required" placeholder="">
 							</div>
 						</div>
 
 						<div class="form-group">
 							<label for="contactEmail">Email<span class="text-danger"></span></label>
 							<div class="input-group">
-								<input type="email" name="email" class="form-input-text form-control" required="required" placeholder="">
+								<input type="email" name="contactEmail" class="form-input-text form-control" required="required" placeholder="">
 							</div>
 						</div>
 
 						<div class="form-group">
 							<label for="contactPhone">Phone<span class="text-danger"></span></label>
 							<div class="input-group">
-								<input type="tel" name="phone" class="form-input-text form-control" onkeydown="return checkPhoneKey(event.key)" placeholder="">
+								<input type="tel" name="contactPhone" class="form-input-text form-control" onkeydown="return checkPhoneKey(event.key)" placeholder="">
 							</div>
 						</div>
 
 						<div class="form-group">
 							<label for="contactCompany">Company (optional)<span class="text-danger"></span></label>
 							<div class="input-group">
-								<input type="text" name="company" class="form-input-text form-control" placeholder="">
+								<input type="text" name="contactCompany" class="form-input-text form-control" placeholder="">
 							</div>
 						</div>
 
 						<div class="form-group">
 							<label for="contactMessage">Message<span class="text-danger"></span></label>
 							<div class="input-group">
-								<textarea name="message" class="form-input-text form-control" rows="6" maxlength="2000" required="required" placeholder=""></textarea>
+								<textarea name="contactMessage" class="form-input-text form-control" rows="6" maxlength="2000" required="required" placeholder=""></textarea>
 							</div>
 						</div>
 

@@ -25,31 +25,31 @@ $(document).ready(function(){
 		// rules here define what is good or bad input
 		// each rule starts with the form input element's NAME attribute
 		rules: {
-			name: {
+			contactName: {
 				required: true
 			},
-			email: {
+			contactEmail: {
 				email: true,
 				required: true
 			},
-			message: {
+			contactMessage: {
 				required: true,
-				maxLength: 2000
+				maxlength: 2000
 			}
 		},
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			name: {
+			contactName: {
 				required: "Please enter your name."
 			},
-			email: {
+			contactEmail: {
 				email: "Please enter a valid email address.",
 				required: "Email address required."
 			},
-			message: {
+			contactMessage: {
 				required: "Please enter a message.",
-				maxLength: "2000 characters max."
+				maxlength: "2000 characters max."
 			}
 		},
 
