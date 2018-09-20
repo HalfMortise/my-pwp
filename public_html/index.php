@@ -161,7 +161,7 @@
 							</div>
 							<div class="col-md-4 mb-4">
 								<div class="card-title mb-4">
-									<a href="#" target="_blank"><img class="portfolio-img d-block mx-auto" src="./images/sign-in-modal.jpg" alt="" /></a>
+									<a href="https://bit.ly/2QK5Yoo" target="_blank"><img class="portfolio-img d-block mx-auto" src="./images/sign-in-modal.jpg" alt="" /></a>
 									<p class="justify-content-center">NM Outdoors</p>
 									<div class="card-body mb-4">
 										<p class="card-text text-center">I collaborated on a team with three others to build this web application for the outdoor enthusiasts of New Mexico. With a complex back-end so that we could bring in all the data possible, and with an Angular build for the front-end, we completed this masterpiece in only 8 weeks! Be sure to visit NM Outdoors next time you're looking for a campground!</p>
